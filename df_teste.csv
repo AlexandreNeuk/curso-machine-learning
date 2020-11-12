@@ -1,0 +1,1712 @@
+	nome	ano	km	cor	cambio	portas	preco	flex
+0	Chevrolet Onix 1.0 LT 	2020	0.0	Laranja	manual	3.0	59890.0	1.0
+1	Fiat Strada Hard Working 1.4 	2019	41.07	Branco	manual	2.0	45900.0	1.0
+2	Fiat Strada Hard Working 1.4 	2019	48.654	Prata	manual	4.0	45900.0	1.0
+3	Fiat Strada Hard Working 1.4 	2019	19.0	Prata	manual	2.0	45990.0	1.0
+4	Fiat Strada Hard Working 1.4 	2019	24.715	Branco	manual	2.0	45990.0	1.0
+5	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático		59900.0	0.0
+6	Fiat Strada Hard Working 1.4 	2019	39.441	Prata	manual	2.0	46000.0	1.0
+7	Fiat Strada Hard Working 1.4 	2019	18.86	Branco	manual	2.0	46300.0	1.0
+8	Fiat Strada Hard Working 1.4 	2019	40.856	Prata	manual	2.0	46500.0	1.0
+9	Fiat Strada Freedom 1.4 	2019	78.0	Vermelho	manual		46500.0	1.0
+10	Fiat Strada Hard Working 1.4 	2019	25.15	Prata	manual	2.0	46600.0	1.0
+11	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Prata	automático	5.0	59900.0	0.0
+12	Fiat Strada Hard Working 1.4 	2018	49.0	Branco	manual	2.0	36999.0	1.0
+13	Fiat Strada Working 1.4 	2018	76.569	Branco	manual	2.0	39940.0	1.0
+14	Fiat Strada Hard Working 1.4 	2018	79.0	Branco	manual		43500.0	1.0
+15	Fiat Strada Hard Working 1.4 	2018	64.0	Branco	manual	2.0	43000.0	1.0
+16	Fiat Strada Hard Working 1.4 	2018	82.63	Branco	manual	3.0	51900.0	1.0
+17	Fiat Strada Hard Working 1.4 	2018	23.047	Preto	manual		55900.0	1.0
+18	Fiat Strada Working 1.4 	2016	51.408	Vermelho	manual	2.0	50000.0	1.0
+19	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	manual	5.0	59900.0	0.0
+20	Fiat Strada Working 1.4 	2016	21.978	Cinza	manual	3.0	53000.0	1.0
+21	Fiat Strada Working 1.4 	2015	88.0	Vermelho	manual	2.0	33800.0	1.0
+22	Fiat Strada Working 1.4 	2015	100.0	Branco	manual	3.0	43000.0	1.0
+23	Fiat Strada Working 1.4 	2015	91.962	Branco	manual	3.0	44900.0	1.0
+24	Fiat Strada Working 1.4 	2014	140.0	Prata	manual	2.0	29900.0	1.0
+25	Fiat Strada Working 1.4 	2013	187.52	Marrom	manual		28000.0	1.0
+26	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Branco	automático	5.0	59990.0	0.0
+27	Fiat Strada Hard Working 1.4 	2019	42.962	Prata	manual	2.0	46900.0	1.0
+28	Fiat Strada Hard Working 1.4 	2019	18.0	Branco	manual	2.0	46990.0	1.0
+29	Fiat Strada 1.4 Freedom 	2019	40.75	Prata	manual	2.0	47380.0	1.0
+30	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Vermelho	automático	5.0	59990.0	0.0
+31	Fiat Strada Hard Working 1.4 	2019	32.782	Prata	manual	2.0	47900.0	1.0
+32	Fiat Strada Working 1.4 	2019	49.089	Prata	manual		47900.0	1.0
+33	Fiat Strada Hard Working 1.4 	2019	18.435	Prata	manual	2.0	48180.0	1.0
+34	Fiat Strada Hard Working 1.4 	2019	48.0	Branco	manual	2.0	48900.0	1.0
+35	Fiat Strada Hard Working 1.4 	2019	35.0	Branco	manual	2.0	48900.0	1.0
+36	Fiat Strada Hard Working 1.4 	2019	51.268	Branco	manual	2.0	48990.0	1.0
+37	Fiat Strada Hard Working 1.4 	2019	14.985	Prata	manual	2.0	49800.0	1.0
+38	Fiat Strada Hard Working 1.4 	2019	2.06	Branco	manual	2.0	49900.0	1.0
+39	Fiat Strada Hard Working 1.4 	2019	42.033	Prata	manual	2.0	50990.0	1.0
+40	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Laranja	automático	5.0	60100.0	0.0
+41	Fiat Strada Working 1.4 	2013	96.144	Branco	manual	2.0	28900.0	1.0
+42	Fiat Strada Working 1.4 	2013	158.0	Prata	manual	2.0	28990.0	1.0
+43	Fiat Strada Working 1.4 	2013	132.82299999999998	Preto	manual	2.0	29900.0	1.0
+44	Fiat Strada Working 1.4 	2013	120.98	Prata	manual	2.0	32900.0	1.0
+45	Fiat Strada Working 1.4 	2012	126.084	Preto	manual	2.0	34900.0	1.0
+46	Chevrolet Onix 1.0 	2020	0.0	Prata	manual	5.0	60290.0	1.0
+47	Fiat Strada Fire 1.4 	2011	111.0	Vermelho	manual	2.0	25000.0	1.0
+48	Fiat Strada Cabine Plus Endurance 	2021	0.0	Várias cores	manual	2.0	45787.0	0.0
+49	Fiat Strada Cabine Plus Endurance 	2021	0.0	Várias cores	manual	2.0	45787.0	0.0
+50	Fiat Strada Cabine Plus Endurance 	2021	0.0	Várias cores	manual	2.0	45798.0	0.0
+51	Fiat Strada Cabine Plus Endurance 	2021	0.0	Várias cores	manual	2.0	45858.0	0.0
+52	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	4.0	60640.0	1.0
+53	Fiat Strada Cabine Plus Endurance 	2021	0.0	Preto	manual	2.0	52990.0	0.0
+54	Fiat Strada Cabine Plus Endurance 	2021	0.0	Não informada.	manual	2.0	53415.0	0.0
+55	Fiat Strada Cabine Plus Endurance 	2021	0.0	Preto	manual	2.0	53415.0	0.0
+56	Fiat Strada Cabine Plus Endurance 	2021	0.0	Preto	manual	2.0	54687.0	0.0
+57	Fiat Strada Cabine Plus Endurance 	2021	0.0	Não informada.	manual	2.0	53416.0	0.0
+58	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	53416.0	0.0
+59	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	53770.0	0.0
+60	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	54171.0	0.0
+61	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Várias cores	manual	4.0	54499.0	0.0
+62	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual		55890.0	0.0
+63	Fiat Strada Cabine Plus Endurance 	2021	0.0	Não informada.	manual	2.0	55900.0	0.0
+64	Fiat Strada Cabine Plus Endurance 	2021	0.0	Cinza	manual	2.0	56415.0	0.0
+65	Fiat Strada Cabine Plus Endurance 	2021	0.0	Cinza	manual	2.0	57447.0	0.0
+66	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Branco	manual	2.0	57770.0	0.0
+67	Fiat Strada Cabine Plus Freedom 	2021	0.0	Não informada.	manual	2.0	58371.0	0.0
+68	Fiat Strada Cabine Plus Freedom 	2021	0.0	Preto	manual	2.0	58371.0	0.0
+69	Fiat Strada Cabine Plus Freedom 	2021	0.0	Não informada.	manual	2.0	58372.0	0.0
+70	Chevrolet Onix 1.0 LT SPE/4 	2019	19.732	Prata	manual	4.0	31293.0	0.0
+71	Chevrolet Onix 1.0 LT 	2020	0.0	Vermelho	manual	4.0	60910.0	1.0
+72	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	4.0	58770.0	0.0
+73	Fiat Strada Cabine Plus Freedom 	2021	0.0	Vermelho	manual	2.0	59127.0	0.0
+74	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Não informada.	manual	3.0	59700.0	0.0
+75	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	2.0	61639.0	0.0
+76	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Não informada.	manual	4.0	61990.0	0.0
+77	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Preto	manual	4.0	62991.0	0.0
+78	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	4.0	60990.0	1.0
+79	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	63490.0	0.0
+80	Fiat Strada Cabine Plus Endurance 	2021	0.0	Cinza	manual	2.0	63570.0	0.0
+81	Fiat Strada Cabine Plus Endurance 	2021	0.0	Preto	manual	3.0	63590.0	0.0
+82	Fiat Strada Cabine Plus Endurance 	2021	0.0	Preto	manual	2.0	63590.0	0.0
+83	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	63590.0	0.0
+84	Fiat Strada Cabine Plus Endurance 	2021	0.0	Várias cores	manual	2.0	63590.0	0.0
+85	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Não informada.	manual	4.0	63747.0	0.0
+86	Fiat Strada Cabine Plus Endurance 	2021	0.0	Prata	manual	2.0	63900.0	0.0
+87	Chevrolet Onix 1.0 LT 	2020	0.0	Prata	manual	5.0	60990.0	1.0
+88	Fiat Strada Cabine Dupla Endurance 	2021	300.0	Branco	manual	2.0	64490.0	0.0
+89	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	2.0	64900.0	0.0
+90	Fiat Strada Cabine Plus Endurance 	2021	0.0	Vermelho	manual	2.0	64900.0	0.0
+91	Fiat Strada Cabine Plus Endurance 	2021	0.0	Prata	manual	2.0	64900.0	0.0
+92	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Branco	manual	2.0	67770.0	0.0
+93	Fiat Strada Cabine Plus Endurance 	2021	0.0	Cinza	manual	2.0	68390.0	0.0
+94	Fiat Strada Cabine Plus Endurance 	2021	0.0	Branco	manual	4.0	68490.0	0.0
+95	Fiat Strada Cabine Plus Endurance 	2021	25.0	Cinza	manual	2.0	68990.0	0.0
+96	Fiat Strada Cabine Plus Endurance 	2021	0.0	Cinza	manual	2.0	68990.0	0.0
+97	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Vermelho	manual	5.0	61180.0	0.0
+98	Fiat Strada Cabine Plus Freedom 	2021	0.0	Várias cores	manual	2.0	69490.0	0.0
+99	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	4.0	69490.0	0.0
+100	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	automático		60900.0	0.0
+101	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Branco	manual	4.0	70011.0	0.0
+102	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Não informada.	manual	4.0	70191.0	0.0
+103	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Preto	manual	4.0	70191.0	0.0
+104	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	2.0	70390.0	0.0
+105	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	4.0	70390.0	0.0
+106	Fiat Strada Cabine Plus Freedom 	2021	0.0	Branco	manual	2.0	70900.0	0.0
+107	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Não informada.	manual	4.0	71900.0	0.0
+108	Fiat Strada Cabine Plus Freedom 	2021	0.0	Preto	manual	2.0	72000.0	0.0
+109	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Branco	automático	5.0	61990.0	0.0
+110	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Branco	manual	2.0	73692.0	0.0
+111	Fiat Strada Cabine Dupla Endurance 	2021	0.0	Prata	manual	4.0	74990.0	0.0
+112	Chevrolet Onix 1.0 LT 	2020	0.0	Laranja	manual	4.0	63000.0	1.0
+113	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Várias cores	manual	4.0	75990.0	0.0
+114	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Não informada.	manual	5.0	76400.0	0.0
+115	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Preto	manual	4.0	77990.0	0.0
+116	Fiat Strada Cabine Dupla Freedom 	2021	0.0	Cinza	manual	4.0	77990.0	0.0
+117	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Prata	manual	5.0	63990.0	0.0
+118	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual	4.0	79890.0	0.0
+119	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Preto	manual	4.0	79990.0	0.0
+120	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Não informada.	manual	4.0	79990.0	0.0
+121	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	manual	3.0	64590.0	0.0
+122	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Cinza	manual	3.0	79990.0	0.0
+123	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Cinza	manual	4.0	79990.0	0.0
+124	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual	3.0	79990.0	0.0
+125	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual	4.0	79990.0	0.0
+126	Chevrolet Onix 1.0 Turbo LT 	2020	335.0	Preto	manual	4.0	64900.0	0.0
+127	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Várias cores	manual	4.0	79990.0	0.0
+128	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Branco	manual	3.0	79990.0	0.0
+129	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Não informada.	manual	4.0	83390.0	0.0
+130	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual		83480.0	0.0
+131	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual	4.0	83990.0	0.0
+132	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Cinza	manual	4.0	82800.0	0.0
+133	Fiat Strada Cabine Dupla Volcano 	2021	0.0	Vermelho	manual	4.0	85900.0	0.0
+134	Ford Ka 1.0 S 	2021	0.0	Várias cores	manual		32122.0	0.0
+135	Ford Ka 1.0 S 	2021	0.0	Várias cores	manual	4.0	32122.0	0.0
+136	Ford Ka 1.0 SE 	2021	0.0	Preto	manual	4.0	37097.0	0.0
+137	Ford Ka 1.0 SE 	2020	37.0	Prata	manual	5.0	38900.0	0.0
+138	Ford Ka Sedan SE 1.0 	2020	200.0	Cinza	manual	4.0	38900.0	1.0
+139	Ford Ka 1.0 SE 	2020	10.5	Branco	manual	4.0	42500.0	0.0
+140	Ford Ka 1.0 SE 	2020	10.075	Preto	manual	4.0	43000.0	0.0
+141	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Prata	manual	4.0	64999.0	0.0
+142	Ford Ka 1.0 SE 	2020	3.0	Vermelho	manual	5.0	43990.0	0.0
+143	Ford Ka 1.0 SE 	2020	28.0	Cinza	manual	4.0	43990.0	0.0
+144	Ford Ka 1.0 SE 	2019	16.892	Preto	manual	4.0	30431.0	1.0
+145	Ford Ka 1.0 SE 	2019	38.633	Branco	manual	5.0	36977.0	1.0
+146	Ford Ka 1.0 SE 	2019	40.8	Prata	manual	4.0	37900.0	1.0
+147	Ford Ka 1.0 SE Plus 	2019	59.0	Prata	manual	4.0	38000.0	1.0
+148	Ford Ka 1.0 SE Plus 	2019	60.0	Preto	manual	4.0	38900.0	1.0
+149	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Laranja	manual	5.0	65990.0	0.0
+150	Ford Ka 1.0 SE 	2021	0.0	Não informada.	manual		50740.0	0.0
+151	Ford Ka 1.0 SE Plus 	2021	0.0	Preto	manual	5.0	50990.0	0.0
+152	Ford Ka 1.0 SE Plus 	2021	0.0	Prata	manual	4.0	51123.0	0.0
+153	Ford Ka 1.0 SE Plus 	2021	0.0	Preto	manual	4.0	51148.0	0.0
+154	Ford Ka 1.0 SE 	2021	0.0	Vermelho	manual	5.0	51440.0	0.0
+155	Ford Ka 1.0 SE Plus 	2021	0.0	Não informada.	manual		54490.0	0.0
+156	Ford Ka 1.0 Freestyle 	2021	0.0	Preto	manual		54990.0	0.0
+157	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Prata	automático	5.0	65990.0	0.0
+158	Ford Ka 1.0 Freestyle 	2021	0.0	Preto	manual	4.0	56990.0	0.0
+159	Ford Ka 1.5 SE Plus 	2021	0.0	Prata	automático		59980.0	0.0
+160	Ford Ka 1.5 SE Plus 	2021	0.0	Branco	automático	4.0	60002.0	0.0
+161	Ford Ka 1.0 Freestyle 	2021	0.0	manual			60590.0	0.0
+162	Ford Ka 1.0 Freestyle 	2021	0.0	Branco	manual	5.0	60590.0	0.0
+163	Ford Ka 1.0 Freestyle 	2021	0.0	Branco	manual	5.0	61290.0	0.0
+164	Ford Ka 1.5 Freestyle 	2021	0.0	Branco	automático	4.0	66990.0	0.0
+165	Ford Ka 1.5 Freestyle 	2021	0.0	Não informada.	automático		68490.0	0.0
+166	Ford Ka 1.0 S 	2020	0.0	Preto	manual		31492.0	0.0
+167	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual	4.0	31492.0	0.0
+168	Ford Ka 1.0 S 	2020	0.0	Vermelho	manual		31492.0	0.0
+169	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual		31492.0	0.0
+170	Ford Ka 1.0 S 	2020	0.0	Branco	manual		31492.0	0.0
+171	Ford Ka 1.0 S 	2020	0.0	Vermelho	manual		31492.0	0.0
+172	Ford Ka 1.0 S 	2020	0.0	Vinho	manual	5.0	31492.0	0.0
+173	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	manual	4.0	67290.0	0.0
+174	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual		31494.0	0.0
+175	Ford Ka 1.0 S 	2020	0.0	Branco	manual	4.0	34930.0	0.0
+176	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual		32068.0	0.0
+177	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual		32068.0	0.0
+178	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual	5.0	32122.0	0.0
+179	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Laranja	automático	5.0	67390.0	0.0
+180	Ford Ka 1.0 S 	2020	0.0	Vermelho	manual	5.0	32122.0	0.0
+181	Ford Ka 1.0 S 	2020	0.0	Vermelho	manual		32498.0	0.0
+182	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual		32499.0	0.0
+183	Ford Ka 1.0 SE 	2020	0.0	Prata	manual		32800.0	0.0
+184	Ford Ka 1.0 SE 	2020	0.0	Preto	manual		32899.0	0.0
+185	Ford Ka 1.0 SE 	2020	0.0	Marrom	manual		32899.0	0.0
+186	Ford Ka 1.0 SE 	2020	0.0	Prata	manual		32899.0	0.0
+187	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Laranja	automático	5.0	67390.0	0.0
+188	Ford Ka 1.0 SE 	2020	0.0	Branco	manual		32899.0	0.0
+189	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	4.0	33099.0	0.0
+190	Ford Ka 1.0 SE 	2020	0.0	Várias cores	manual	4.0	33328.0	0.0
+191	Ford Ka 1.0 SE 	2020	0.0	Várias cores	manual		33328.0	0.0
+192	Ford Ka 1.0 S 	2020	0.0	Preto	manual	4.0	33675.0	0.0
+193	Ford Ka 1.0 SE 	2020	0.0	Prata	manual	5.0	33790.0	0.0
+194	Ford Ka 1.0 SE 	2020	0.0	Várias cores	manual		33800.0	0.0
+195	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual	4.0	35599.0	1.0
+196	Ford Ka Sedan SE 1.0 	2020	0.0	Preto	manual		35599.0	1.0
+197	Ford Ka Sedan SE 1.0 	2020	0.0	Preto	manual		35600.0	1.0
+198	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Preto	automático	5.0	67890.0	0.0
+199	Ford Ka Sedan SE 1.0 	2020	0.0	Preto	manual	4.0	36330.0	1.0
+200	Ford Ka 1.0 S 	2020	0.0	Várias cores	manual	4.0	37500.0	0.0
+201	Ford Ka 1.0 SE 	2020	39.0	Branco	manual	4.0	37990.0	0.0
+202	Ford Ka 1.0 SE 	2020	51.423	Branco	manual	4.0	37990.0	0.0
+203	Ford Ka 1.0 SE 	2020	38.469	Branco	manual	4.0	37990.0	0.0
+204	Ford Ka 1.0 SE 	2020	9.2	Preto	manual	4.0	38899.0	0.0
+205	Ford Ka 1.0 SE 	2020	58.254	Branco	manual	4.0	38900.0	0.0
+206	Ford Ka 1.0 SE 	2020	0.0	Branco	manual	5.0	39100.0	0.0
+207	Ford Ka 1.0 SE 	2020	41.291	Cinza	manual	4.0	39500.0	0.0
+208	Ford Ka 1.0 SE 	2020	16.0	Prata	manual	4.0	38790.0	0.0
+209	Chevrolet Onix 1.0 Turbo LTZ 	2020	245.0	Branco	automático	4.0	67900.0	0.0
+210	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	5.0	39800.0	0.0
+211	Ford Ka 1.0 SE 	2020	57.514	Branco	manual	4.0	39900.0	0.0
+212	Ford Ka 1.0 SE 	2020	40.0	Branco	manual	4.0	40900.0	0.0
+213	Ford Ka 1.0 SE 	2020	0.0	Preto	manual	4.0	39920.0	0.0
+214	Ford Ka 1.0 SE 	2020	0.0	Branco	manual	5.0	39990.0	0.0
+215	Ford Ka 1.0 SE 	2020	21.425	Branco	manual	4.0	40000.0	0.0
+216	Ford Ka 1.5 SE Plus 	2020	0.0	Não informada.	automático	4.0	40499.0	0.0
+217	Ford Ka 1.0 SE 	2020	37.0	Prata	manual	5.0	40500.0	0.0
+218	Ford Ka 1.5 SE Plus 	2020	0.0	Várias cores	manual	5.0	40500.0	0.0
+219	Chevrolet Onix 1.0 Joy SPE/4 	2019	56.0	Branco	manual	5.0	32990.0	0.0
+220	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Preto	automático		67980.0	0.0
+221	Ford Ka 1.0 SE 	2020	43.928	Branco	manual	4.0	40500.0	0.0
+222	Ford Ka 1.0 SE 	2020	41.237	Cinza	manual	4.0	40900.0	0.0
+223	Ford Ka 1.5 SE Plus 	2020	0.0	Várias cores	automático	5.0	40900.0	0.0
+224	Ford Ka 1.0 SE 	2020	41.387	Branco	manual	4.0	40900.0	0.0
+225	Ford Ka 1.0 SE 	2020	42.8	Branco	manual	4.0	40990.0	0.0
+226	Ford Ka 1.0 SE Plus 	2020	0.0	Várias cores	manual		41900.0	0.0
+227	Ford Ka 1.0 SE 	2020	40.868	Prata	manual	4.0	41900.0	0.0
+228	Chevrolet Onix 1.0 	2020	0.0	Preto	automático	5.0	67990.0	1.0
+229	Ford Ka 1.0 S 	2020	0.0	Preto	manual	4.0	41990.0	0.0
+230	Ford Ka 1.0 SE 	2020	20.05	Preto	manual	5.0	41990.0	0.0
+231	Ford Ka 1.0 SE 	2020	19.985	Branco	manual	5.0	42800.0	0.0
+232	Chevrolet Onix 1.0 Turbo Premier 	2020	2.4	Vermelho	automático	5.0	68500.0	0.0
+233	Ford Ka 1.0 S 	2020	5.988	Branco	manual	5.0	42900.0	0.0
+234	Ford Ka 1.0 SE 	2020	99.999	Vermelho	manual	4.0	42913.0	0.0
+235	Ford Ka 1.0 S 	2020	0.0	Preto	manual	4.0	42920.0	0.0
+236	Ford Ka 1.0 S 	2020	0.0	Branco	manual	4.0	42920.0	0.0
+237	Ford Ka 1.0 S 	2020	0.0	Preto	manual		42990.0	0.0
+238	Ford Ka 1.0 S 	2020	0.0	Preto	manual		42990.0	0.0
+239	Ford Ka Sedan SE 1.0 	2020	40.634	Prata	manual	4.0	42990.0	1.0
+240	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Branco	automático	5.0	62890.0	0.0
+241	Ford Ka 1.0 SE 	2020	0.0	Várias cores	manual		43500.0	0.0
+242	Ford Ka Sedan SE 1.0 	2020	42.84	Branco	manual	4.0	43690.0	1.0
+243	Ford Ka 1.0 SE 	2020	13.0	Cinza	manual	5.0	43900.0	0.0
+244	Ford Ka Sedan SE 1.0 	2020	43.074	Branco	manual	4.0	43900.0	1.0
+245	Ford Ka 1.0 SE 	2020	46.21100000000001	Prata	manual	4.0	43900.0	0.0
+246	Ford Ka Sedan SE 1.0 	2020	40.457	Cinza	manual	4.0	43900.0	1.0
+247	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	68900.0	0.0
+248	Ford Ka 1.0 SE Plus 	2020	11.5	Prata	manual	4.0	43900.0	0.0
+249	Ford Ka Sedan SE 1.0 	2020	42.664	Branco	manual	4.0	43900.0	1.0
+250	Ford Ka 1.0 SE 	2020	40.181	Branco	manual	4.0	43990.0	0.0
+251	Ford Ka 1.0 S 	2020	0.0	Branco	manual	4.0	43990.0	0.0
+252	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	5.0	43990.0	0.0
+253	Ford Ka 1.0 SE 	2020	8.0	Branco	manual	5.0	43990.0	0.0
+254	Ford Ka 1.0 SE 	2020	41.992	Preto	manual	4.0	43990.0	0.0
+255	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático	5.0	68900.0	0.0
+256	Ford Ka 1.0 SE 	2020	0.0	Prata	manual	4.0	44290.0	0.0
+257	Ford Ka 1.0 SE 	2020	100.0	Vermelho	manual	4.0	44490.0	0.0
+258	Ford Ka 1.0 SE Plus 	2020	32.09	Preto	manual	4.0	44500.0	0.0
+259	Ford Ka 1.0 SE Plus 	2020	30.8	Branco	manual	4.0	44900.0	0.0
+260	Ford Ka Sedan SE 1.0 	2020	43.902	Cinza	manual	4.0	44900.0	1.0
+261	Ford Ka Sedan SE 1.0 	2020	41.12300000000001	Prata	manual	4.0	44900.0	1.0
+262	Chevrolet Onix 1.0 Turbo Premier 	2020	14.0	Branco	automático	4.0	69990.0	0.0
+263	Ford Ka 1.0 SE Plus 	2020	41.0	Vermelho	manual	4.0	44900.0	0.0
+264	Ford Ka 1.0 SE 	2020	0.0	Cinza	manual		44990.0	0.0
+265	Ford Ka 1.0 SE 	2020	0.0	Preto	manual		44990.0	0.0
+266	Ford Ka 1.0 SE 	2020	0.0	Prata	manual	4.0	44990.0	0.0
+267	Ford Ka 1.0 SE 	2020	0.0	Cinza	manual		44990.0	0.0
+268	Ford Ka Sedan SE 1.0 	2020	31.6	Cinza	manual	4.0	44990.0	1.0
+269	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Vermelho	automático	4.0	68990.0	0.0
+270	Ford Ka 1.0 S 	2020	0.0	Branco	manual	4.0	44990.0	0.0
+271	Ford Ka Sedan SE 1.0 	2020	37.0	Preto	manual	4.0	44990.0	1.0
+272	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	5.0	45700.0	0.0
+273	Ford Ka 1.0 SE 	2020	41.625	Branco	manual	4.0	45710.0	0.0
+274	Ford Ka 1.0 SE 	2020	40.729	Prata	manual	4.0	45710.0	0.0
+275	Ford Ka Sedan SE 1.0 	2020	40.596	Branco	manual	4.0	45710.0	1.0
+276	Ford Ka Sedan SE 1.0 	2020	40.395	Cinza	manual	4.0	45710.0	1.0
+277	Ford Ka 1.0 SE 	2020	0.0	Prata	manual	4.0	45890.0	0.0
+278	Ford Ka 1.0 SE 	2020	10.04	Preto	manual	4.0	45900.0	0.0
+279	Ford Ka Sedan SE 1.0 	2020	0.0	Preto	manual	4.0	45900.0	1.0
+280	Ford Ka 1.0 SE 	2020	0.0	Branco	manual	4.0	45900.0	0.0
+281	Ford Ka 1.0 SE Plus 	2020	0.0	Branco	manual	4.0	45900.0	0.0
+282	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Preto	automático	5.0	69490.0	0.0
+283	Ford Ka 1.0 SE 	2020	12.0	Preto	manual	5.0	45900.0	0.0
+284	Ford Ka 1.0 SE 	2020	0.0	Várias cores	manual	4.0	45990.0	0.0
+285	Ford Ka 1.0 S 	2020	0.0	Preto	manual	4.0	45990.0	0.0
+286	Ford Ka 1.0 SE 	2020	0.0	Preto	manual	5.0	45990.0	0.0
+287	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	5.0	45990.0	0.0
+288	Ford Ka 1.0 SE 	2020	0.0	Branco	manual	5.0	45990.0	0.0
+289	Chevrolet Onix 1.0 LT SPE/4 	2019	35.25	Preto	manual	4.0	34320.0	0.0
+290	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Vermelho	automático	5.0	69490.0	0.0
+291	Ford Ka 1.0 SE 	2020	0.0	Cinza	manual	4.0	45990.0	0.0
+292	Ford Ka Sedan SE 1.0 	2020	0.0	Prata	manual	4.0	45999.0	1.0
+293	Ford Ka 1.5 SE Plus 	2020	0.0	Branco	automático	5.0	46183.0	0.0
+294	Ford Ka Sedan SE 1.0 	2020	12.578	Branco	manual	4.0	46590.0	1.0
+295	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	automático		69590.0	0.0
+296	Ford Ka Sedan SE 1.0 	2020	5.0	Branco	manual	4.0	46900.0	1.0
+297	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual		46990.0	1.0
+298	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual	4.0	47890.0	1.0
+299	Ford Ka Sedan SE 1.0 	2020	9.254	Cinza	manual	4.0	47920.0	1.0
+300	Ford Ka 1.0 SE 	2020	0.0	Preto	manual	5.0	47990.0	0.0
+301	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual	4.0	47990.0	1.0
+302	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático	4.0	76900.0	0.0
+303	Ford Ka 1.0 SE 	2019	27.0	Vermelho	manual	4.0	39900.0	1.0
+304	Ford Ka 1.0 SE 	2019	44.31100000000001	Branco	manual		39900.0	1.0
+305	Ford Ka 1.0 SE 	2019	111.0	Prata	manual	5.0	40000.0	1.0
+306	Ford Ka 1.0 SE 	2019	26.107	Prata	manual	4.0	40900.0	1.0
+307	Ford Ka 1.0 SE 	2019	26.068	Prata	manual	4.0	40900.0	1.0
+308	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Vermelho	automático	4.0	69900.0	0.0
+309	Ford Ka 1.0 SE 	2019	33.161	Vermelho	manual	5.0	40990.0	1.0
+310	Ford Ka 1.0 SE 	2019	16.432000000000002	Vermelho	manual	4.0	41899.0	1.0
+311	Ford Ka 1.5 SE 	2019	30.0	Branco	manual	4.0	44000.0	1.0
+312	Ford Ka 1.5 SE 	2019	32.0	Prata	automático		44890.0	0.0
+313	Ford Ka 1.5 SE 	2019	23.8	Branco	manual	5.0	44900.0	1.0
+314	Ford Ka 1.5 SE 	2019	17.989	Branco	automático	5.0	48900.0	0.0
+315	Ford Ka 1.5 SE 	2019	22.0	Vermelho	automático	4.0	48990.0	0.0
+316	Ford Ka 1.5 Freestyle 	2019	39.932	Branco	automático	3.0	49900.0	0.0
+317	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Vermelho	automático	4.0	69990.0	0.0
+318	Ford Ka 1.0 SE 	2020	1.0	Branco	manual	4.0	47990.0	0.0
+319	Ford Ka 1.0 SE 	2020	0.0	Prata	manual	5.0	47990.0	0.0
+320	Ford Ka 1.0 SE Plus 	2020	0.0	Branco	manual	5.0	48990.0	0.0
+321	Ford Ka Sedan SE 1.0 	2020	0.0	Cinza	manual	4.0	48990.0	1.0
+322	Ford Ka Sedan SE 1.0 	2020	0.0	Vermelho	manual	4.0	48990.0	1.0
+323	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual		48990.0	1.0
+324	Ford Ka 1.0 SE Plus 	2020	0.0	Branco	manual	4.0	49790.0	0.0
+325	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	69990.0	0.0
+326	Ford Ka 1.0 SE Plus 	2020	0.0	Preto	manual	4.0	49900.0	0.0
+327	Ford Ka 1.0 SE 	2020	0.0	Vermelho	manual	5.0	49910.0	0.0
+328	Ford Ka 1.0 SE 	2020	0.0	Branco	manual	5.0	49910.0	0.0
+329	Ford Ka 1.0 SE 	2020	0.0	Branco	manual		49990.0	0.0
+330	Ford Ka 1.5 SE Plus 	2020	0.0	Não informada.	manual	4.0	49990.0	0.0
+331	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual	4.0	49990.0	1.0
+332	Ford Ka Sedan SE 1.0 	2020	0.0	Branco	manual		50990.0	1.0
+333	Ford Ka 1.0 SE Plus 	2020	23.258000000000006	Branco	manual	4.0	50990.0	0.0
+334	Ford Ka 1.0 SE Plus 	2020	0.0	Cinza	manual	4.0	51000.0	0.0
+335	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Vermelho	automático	5.0	69990.0	0.0
+336	Ford Ka 1.5 Freestyle 	2019	55.011	Branco	automático	4.0	49990.0	0.0
+337	Ford Ka 1.5 SE 	2019	1.9	Vermelho	automático	5.0	53990.0	0.0
+338	Ford Ka 1.0 SE 	2018	29.0	Prata	manual	4.0	33400.0	1.0
+339	Ford Ka 1.0 SE 	2018	62.0	Branco	manual		34800.0	1.0
+340	Ford Ka 1.0 SE 	2018	84.0	Branco	manual	4.0	34899.0	1.0
+341	Ford Ka 1.0 SE 	2018	70.6	Branco	manual		34900.0	1.0
+342	Ford Ka 1.0 SE 	2018	81.652	Prata	manual	4.0	34900.0	1.0
+343	Ford Ka 1.0 SE 	2018	110.0	Branco	manual	4.0	34990.0	1.0
+344	Ford Ka 1.0 SE 	2018	32.8	Branco	manual	5.0	34999.0	1.0
+345	Ford Ka 1.5 SE 	2018	200.0	Branco	manual	4.0	35120.0	1.0
+346	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Preto	automático	5.0	69990.0	0.0
+347	Ford Ka 1.0 SE 	2018	83.0	Vermelho	manual	4.0	36000.0	1.0
+348	Ford Ka 1.0 SE 	2018	111.111	Prata	manual	5.0	36900.0	1.0
+349	Ford Ka 1.0 SE 	2018	44.0	Branco	manual	5.0	37800.0	1.0
+350	Ford Ka 1.0 SE 	2018	69.098	Branco	manual	4.0	37890.0	1.0
+351	Ford Ka 1.5 SE 	2018	68.013	Branco	manual		37890.0	1.0
+352	Ford Ka 1.0 SE 	2018	45.0	Branco	manual	4.0	37900.0	1.0
+353	Ford Ka 1.0 SE 	2018	30.0	Branco	manual	5.0	37990.0	1.0
+354	Ford Ka 1.0 SE 	2018	30.8	Prata	manual	4.0	37990.0	1.0
+355	Ford Ka 1.0 SE 	2018	38.0	Branco	manual	4.0	38000.0	1.0
+356	Ford Ka 1.0 SE 	2018	0.0	Preto	manual	4.0	38900.0	1.0
+357	Ford Ka 1.5 SE 	2018	54.368	Preto	manual	4.0	38990.0	1.0
+358	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Laranja	automático	5.0	69990.0	0.0
+359	Ford Ka 1.0 SE 	2018	76.0	Vermelho	manual	4.0	39900.0	1.0
+360	Ford Ka 1.5 SE 	2018	58.06800000000001	Branco	manual		40990.0	1.0
+361	Ford Ka 1.5 SE Plus 	2018	11.354	Preto	manual	4.0	41900.0	1.0
+362	Ford Ka 1.5 SEL 	2017	200.0	Preto	manual	5.0	31493.0	1.0
+363	Ford Ka 1.0 SE Plus 	2017	58.578	Preto	manual	5.0	31990.0	1.0
+364	Ford Ka 1.0 SE 	2017	99.0	Branco	manual	4.0	32900.0	1.0
+365	Ford Ka 1.0 SE 	2017	58.0	Preto	manual	5.0	33890.0	1.0
+366	Chevrolet Onix 1.4 LT SPE/4 	2019	111.0	Preto	manual	4.0	35120.0	0.0
+367	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	69999.0	0.0
+368	Ford Ka 1.0 SE 	2017	95.824	Branco	manual	4.0	33900.0	1.0
+369	Ford Ka 1.5 SE 	2017	39.0	Prata	manual	4.0	35799.0	1.0
+370	Ford Ka 1.0 SE 	2017	72.513	Prata	manual		35900.0	1.0
+371	Ford Ka 1.0 SE 	2017	42.0	Branco	manual	4.0	35900.0	1.0
+372	Ford Ka 1.5 SEL 	2017	31.256	Branco	manual	4.0	36990.0	1.0
+373	Ford Ka Hatch SE 1.0 	2016	83.969	Preto	manual	5.0	32900.0	1.0
+374	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	automático	4.0	70878.0	1.0
+375	Ford Ka Hatch SE 1.0 	2016	43.0	Branco	manual	5.0	35900.0	1.0
+376	Ford Ka Hatch SE 1.5 16v 	2016	53.497	Branco	manual	3.0	36990.0	1.0
+377	Ford Ka Hatch SE 1.0 	2015	200.0	Preto	manual	4.0	28720.0	1.0
+378	Ford Ka Hatch SE 1.5 16v 	2015	0.0	Vermelho	manual	4.0	28900.0	1.0
+379	Ford Ka Hatch SE 1.0 	2015	88.0	Preto	manual	5.0	29490.0	1.0
+380	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Prata	automático	4.0	70890.0	0.0
+381	Ford Ka Hatch SE 1.0 	2015	64.0	Vermelho	manual	5.0	30900.0	1.0
+382	Ford Ka Hatch SE 1.5 16v 	2015	82.689	Preto	manual	5.0	31900.0	1.0
+383	Ford Ka Hatch SE 1.0 	2015	78.0	Vermelho	manual	3.0	31900.0	1.0
+384	Ford Ka Hatch SE 1.0 	2015	70.0	Vermelho	manual	4.0	31990.0	1.0
+385	Ford Ka Hatch SE 1.0 	2015	100.0	Prata	manual	5.0	31990.0	1.0
+386	Ford Ka Hatch SE 1.0 	2015	71.90899999999998	Branco	manual	5.0	32900.0	1.0
+387	Ford Ka Hatch SE 1.0 	2015	76.225	Prata	manual	4.0	32900.0	1.0
+388	Ford Ka Hatch SE 1.0 	2015	106.419	Vermelho	manual	4.0	32900.0	1.0
+389	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Prata	automático	4.0	70990.0	0.0
+390	Ford Ka Hatch SE 1.0 	2015	85.0	Branco	manual	4.0	32990.0	1.0
+391	Ford Ka Hatch SE 1.0 	2015	53.063	Branco	manual	5.0	33000.0	1.0
+392	Ford Ka Hatch SE 1.0 	2015	57.0	Branco	manual	4.0	33900.0	1.0
+393	Ford Ka Hatch SE 1.0 	2015	47.243	Branco	manual	5.0	33900.0	1.0
+394	Ford Ka Hatch SE 1.5 16v 	2015	62.0	Prata	manual	5.0	35990.0	1.0
+395	Ford Ka 1.0 	2013	71.0	Preto	manual	3.0	16900.0	1.0
+396	Ford Ka 1.0 	2012	89.0	Branco	manual	2.0	17900.0	1.0
+397	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Laranja	automático	5.0	70990.0	0.0
+398	Ford Ka 1.0 	2011	99.999	Prata	manual	2.0	16900.0	1.0
+399	Ford Ka 1.0 	2010	33.0	Preto	manual	3.0	15900.0	1.0
+400	Ford Ka 1.0 	2010	47.0	Vermelho	manual		18900.0	1.0
+401	Ford Ka Class 1.6 	2009	1.0	Preto	manual	2.0	17900.0	1.0
+402	Ford Ka 1.0 S 	2021	0.0	Várias cores	manual		32122.0	0.0
+403	Ford Ka 1.0 S 	2021	0.0	Várias cores	manual		32122.0	0.0
+404	Ford Ka 1.0 S 	2021	0.0	Azul	manual		32122.0	0.0
+405	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Branco	manual	4.0	70990.0	0.0
+406	Ford Ka 1.0 S 	2021	0.0	Várias cores	manual	5.0	32122.0	0.0
+407	Ford Ka 1.0 S 	2021	0.0	Branco	manual	4.0	32122.0	0.0
+408	Ford Ka 1.0 S 	2021	0.0	Preto	manual	4.0	32122.0	0.0
+409	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Branco	automático	4.0	71480.0	0.0
+410	Ford Ka 1.0 SE 	2021	0.0	Prata	manual	4.0	37096.0	0.0
+411	Ford Ka 1.0 S 	2021	0.0	Preto	manual	4.0	45245.0	0.0
+412	Ford Ka 1.0 SE 	2021	0.0	Preto	manual		45980.0	0.0
+413	Ford Ka 1.0 S 	2021	0.0	Preto	manual	5.0	46990.0	0.0
+414	Ford Ka 1.0 SE 	2021	0.0	Preto	manual	4.0	46229.0	0.0
+415	Ford Ka 1.0 S 	2021	0.0	Branco	manual	4.0	46388.0	0.0
+416	Ford Ka 1.0 SE 	2021	0.0	Branco	manual		46580.0	0.0
+417	Ford Ka 1.0 SE 	2021	0.0	Vermelho	manual	4.0	46590.0	0.0
+418	Ford Ka 1.0 SE 	2021	0.0	Branco	manual	4.0	46590.0	0.0
+419	Ford Ka 1.0 SE 	2021	0.0	Várias cores	manual		46900.0	0.0
+420	Ford Ka 1.0 SE 	2021	0.0	Várias cores	manual	4.0	46900.0	0.0
+421	Ford Ka 1.0 SE 	2021	0.0	Prata	manual	4.0	46900.0	0.0
+422	Ford Ka 1.0 S 	2021	0.0	Preto	manual	4.0	46990.0	0.0
+423	Ford Ka 1.0 SE 	2021	0.0	Preto	manual	5.0	46990.0	0.0
+424	Ford Ka 1.0 SE 	2021	0.0	Prata	manual		47580.0	0.0
+425	Ford Ka 1.0 SE 	2021	0.0	Cinza	manual	4.0	47590.0	0.0
+426	Ford Ka 1.0 SE 	2021	0.0	Vermelho	manual	5.0	47640.0	0.0
+427	Ford Ka 1.0 SE 	2021	0.0	Preto	manual	4.0	47990.0	0.0
+428	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	automático	4.0	71879.0	1.0
+429	Ford Ka 1.0 SE 	2021	0.0	Branco	manual	4.0	47990.0	0.0
+430	Ford Ka 1.0 SE Plus 	2021	0.0	Preto	manual		49580.0	0.0
+431	Ford Ka 1.0 SE Plus 	2021	0.0	Preto	manual	4.0	49590.0	0.0
+432	Ford Ka 1.0 S 	2021	0.0	Não informada.	manual		49890.0	0.0
+433	Ford Ka 1.0 SE Plus 	2021	0.0	Vermelho	manual	4.0	49990.0	0.0
+434	Ford Ka 1.0 SE Plus 	2021	0.0	Cinza	manual		50580.0	0.0
+435	Ford Ka 1.0 SE Plus 	2021	0.0	Cinza	manual	4.0	50590.0	0.0
+436	Ford Ka 1.0 SE Plus 	2021	0.0	Prata	manual	4.0	50730.0	0.0
+437	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		34552.0	0.0
+438	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	34552.0	0.0
+439	Hyundai HB20 1.0 Sense 	2021	0.0	Marrom	manual		34552.0	0.0
+440	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual	5.0	34552.0	0.0
+441	Hyundai HB20 1.0 Vision 	2020	0.0	Várias cores	manual	4.0	35272.0	0.0
+442	Hyundai HB20 1.0 Sense 	2020	2.595	Branco	manual	4.0	38900.0	0.0
+443	Hyundai HB20 1.0 Sense 	2020	300.0	Cinza	manual	5.0	46900.0	0.0
+444	Hyundai HB20 1.0 Unique 	2019	0.0	Preto	manual	4.0	31100.0	0.0
+445	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	71960.0	0.0
+446	Hyundai HB20 1.0 Unique 	2019	28.0	Dourado	manual	4.0	38900.0	0.0
+447	Hyundai HB20 1.0 Unique 	2019	35.0	Branco	manual	3.0	39800.0	0.0
+448	Hyundai HB20 1.0 Unique 	2019	28.9	Branco	manual	4.0	39899.0	0.0
+449	Hyundai HB20 1.0 Unique 	2019	27.721	Branco	manual	4.0	39900.0	0.0
+450	Hyundai HB20 1.0 Unique 	2019	44.025	Branco	manual	5.0	39900.0	0.0
+451	Hyundai HB20 1.0 Unique 	2019	40.81	Preto	manual	4.0	39990.0	0.0
+452	Hyundai HB20 1.0 Unique 	2019	20.0	Prata	manual	3.0	40500.0	0.0
+453	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	71970.0	0.0
+454	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		48590.0	0.0
+455	Hyundai HB20 1.0 Sense 	2021	1.0	Branco	manual	5.0	46990.0	0.0
+456	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	4.0	47490.0	0.0
+457	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		45900.0	0.0
+458	Hyundai HB20 1.0 Sense 	2021	0.0	Cinza	manual	4.0	47990.0	0.0
+459	Hyundai HB20 1.0 Sense 	2021	0.0	Cinza	manual		47500.0	0.0
+460	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual	4.0	48940.0	0.0
+461	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual		48990.0	0.0
+462	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	71980.0	0.0
+463	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	48990.0	0.0
+464	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual	4.0	49940.0	0.0
+465	Hyundai HB20 1.0 Sense 	2021	0.0	Cinza	manual	4.0	49940.0	0.0
+466	Hyundai HB20 1.0 Vision 	2021	0.0	Vermelho	manual	5.0	50990.0	0.0
+467	Hyundai HB20 1.0 Vision 	2021	0.0	Prata	manual	5.0	51290.0	0.0
+468	Hyundai HB20 1.0 Vision 	2021	0.0	Cinza	manual	5.0	51490.0	0.0
+469	Hyundai HB20 1.0 Vision 	2021	0.0	Várias cores	manual	4.0	51990.0	0.0
+470	Hyundai HB20 1.0 Vision 	2021	0.0	Cinza	manual	5.0	52640.0	0.0
+471	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	71990.0	0.0
+472	Hyundai HB20 1.0 Vision 	2021	0.0	Branco	manual	4.0	52990.0	0.0
+473	Hyundai HB20 1.0 Vision 	2021	0.0	Preto	manual	4.0	53890.0	0.0
+474	Hyundai HB20 1.0 Vision 	2021	0.0	Branco	manual	4.0	53890.0	0.0
+475	Hyundai HB20 1.0 Vision 	2021	0.0	Vermelho	manual		53940.0	0.0
+476	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	71990.0	0.0
+477	Hyundai HB20 1.0 Evolution 	2021	0.0	Branco	manual	4.0	53990.0	0.0
+478	Hyundai HB20 1.0 Evolution 	2021	0.0	Preto	manual	4.0	55990.0	0.0
+479	Hyundai HB20 1.0 Evolution 	2021	0.0	Prata	manual	5.0	57990.0	0.0
+480	Hyundai HB20 1.6 Vision 	2021	0.0	Prata	automático	4.0	63740.0	0.0
+481	Hyundai HB20 1.6 Vision 	2021	0.0	Prata	automático		69940.0	0.0
+482	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Branco	automático	4.0	70990.0	0.0
+483	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Branco	automático	5.0	70990.0	0.0
+484	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Cinza	automático	5.0	73990.0	0.0
+485	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Vermelho	automático	5.0	71940.0	0.0
+486	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Branco	automático	4.0	71990.0	0.0
+487	Hyundai HB20 1.0 T-GDI Sport 	2021	0.0	Prata	automático	4.0	74899.0	0.0
+488	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	33472.0	0.0
+489	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+490	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+491	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual		33472.0	0.0
+492	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+493	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual	4.0	33472.0	0.0
+494	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual		33472.0	0.0
+495	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+496	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+497	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual		33472.0	0.0
+498	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual		33472.0	0.0
+499	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual	5.0	33472.0	0.0
+500	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	5.0	33479.0	0.0
+501	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual	2.0	33599.0	0.0
+502	Hyundai HB20 1.0 Sense 	2020	0.0	Cinza	manual	5.0	33899.0	0.0
+503	Hyundai HB20 1.0 Sense 	2020	0.0	Cinza	manual		34552.0	0.0
+504	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual		34552.0	0.0
+505	Hyundai HB20 1.0 Vision 	2020	0.0	Preto	manual	4.0	35272.0	0.0
+506	Chevrolet Onix 1.0 Joy SPE/4 	2019	30.15	Prata	manual	5.0	35990.0	0.0
+507	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Prata	automático	4.0	72690.0	0.0
+508	Hyundai HB20 1.0 Vision 	2020	0.0	Prata	manual	4.0	35272.0	0.0
+509	Hyundai HB20 1.0 Vision 	2020	0.0	Várias cores	manual	4.0	35272.0	0.0
+510	Hyundai HB20 1.0 Vision 	2020	0.0	Preto	manual	5.0	35272.0	0.0
+511	Hyundai HB20 1.0 Vision 	2020	0.0	Preto	manual	5.0	35289.0	0.0
+512	Hyundai HB20 1.0 Sense 	2020	0.0	Cinza	manual	5.0	37990.0	0.0
+513	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual	5.0	38320.0	0.0
+514	Hyundai HB20 1.0 Vision blueMedia 	2020	0.0	Várias cores	manual	4.0	38490.0	0.0
+515	Hyundai HB20 1.0 Vision blueMedia 	2020	0.0	Várias cores	manual		38490.0	0.0
+516	Hyundai HB20 1.0 Sense 	2020	559.0	Branco	manual	4.0	38800.0	0.0
+517	Hyundai HB20 1.0 Sense 	2020	259.0	Branco	manual	4.0	38900.0	0.0
+518	Hyundai HB20 1.0 Sense 	2020	356.0	Preto	manual	4.0	38900.0	0.0
+519	Hyundai HB20 1.0 Sense 	2020	152.0	Preto	manual	4.0	40500.0	0.0
+520	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	40870.0	0.0
+521	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual	4.0	40870.0	0.0
+522	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	4.0	42900.0	0.0
+523	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	4.0	42890.0	0.0
+524	Hyundai HB20 1.0 Sense 	2020	259.0	Prata	manual	4.0	40900.0	0.0
+525	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual	5.0	40990.0	0.0
+526	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Branco	automático	4.0	72990.0	0.0
+527	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual	5.0	40990.0	0.0
+528	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	5.0	40990.0	0.0
+529	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	5.0	40990.0	0.0
+530	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual	5.0	41999.0	0.0
+531	Hyundai HB20 1.0 Sense 	2020	0.0	Não informada.	manual	4.0	42500.0	0.0
+532	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	42990.0	0.0
+533	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	43890.0	0.0
+534	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual	4.0	43890.0	0.0
+535	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	43990.0	0.0
+536	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	5.0	44490.0	0.0
+537	Hyundai HB20 1.0 Sense 	2020	0.0	Cinza	manual		44580.0	0.0
+538	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual		44580.0	0.0
+539	Hyundai HB20 1.0 Sense 	2020	0.0	Preto	manual	4.0	44900.0	0.0
+540	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	4.0	44990.0	0.0
+541	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Laranja	automático	5.0	72990.0	0.0
+542	Hyundai HB20 1.0 Vision 	2020	0.0	Branco	manual	5.0	44990.0	0.0
+543	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	44990.0	0.0
+544	Hyundai HB20 1.6 Vision 	2020	0.0	Várias cores	automático	4.0	45208.0	0.0
+545	Hyundai HB20 1.0 Evolution 	2020	0.0	Várias cores	manual		45728.0	0.0
+546	Hyundai HB20 1.0 Sense 	2020	0.0	manual			45940.0	0.0
+547	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual		48990.0	0.0
+548	Hyundai HB20 1.0 Sense 	2020	0.0	Várias cores	manual	4.0	45990.0	0.0
+549	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	45990.0	0.0
+550	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual		45990.0	0.0
+551	Hyundai HB20 1.0 Vision 	2020	0.0	Preto	manual	5.0	45990.0	0.0
+552	Hyundai HB20 1.0 Sense 	2020	1.0	Branco	manual	4.0	46900.0	0.0
+553	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	4.0	46900.0	0.0
+554	Hyundai HB20 1.0 Vision 	2020	0.0	Não informada.	manual	4.0	46990.0	0.0
+555	Hyundai HB20 1.0 Sense 	2020	0.0	Vermelho	manual	4.0	46990.0	0.0
+556	Hyundai HB20 1.6 Vision 	2020	0.0	Várias cores	manual	5.0	46990.0	0.0
+557	Hyundai HB20 1.6 Vision 	2020	0.0	Várias cores	manual		46990.0	0.0
+558	Hyundai HB20 1.0 Vision blueMedia 	2020	0.0	Vermelho	manual		48860.0	0.0
+559	Hyundai HB20 1.0 Sense 	2020	798.0	Branco	manual	4.0	49800.0	0.0
+560	Hyundai HB20 1.0 Vision 	2020	0.0	Várias cores	manual	4.0	49990.0	0.0
+561	Hyundai HB20 1.0 Sense 	2020	0.0	Branco	manual	4.0	49990.0	0.0
+562	Hyundai HB20 1.0 Sense 	2020	0.0	Prata	manual	4.0	49990.0	0.0
+563	Hyundai HB20 1.0 Vision 	2020	0.0	Vermelho	manual	4.0	49990.0	0.0
+564	Hyundai HB20 1.0 Vision 	2020	0.0	Preto	manual	4.0	50890.0	0.0
+565	Hyundai HB20 1.6 Vision 	2020	0.0	Várias cores	automático	5.0	50990.0	0.0
+566	Hyundai HB20 1.0 Vision 	2020	0.0	Prata	manual	4.0	51690.0	0.0
+567	Hyundai HB20 1.0 Evolution 	2020	7.3	Vermelho	manual	5.0	51900.0	0.0
+568	Hyundai HB20 1.0 Evolution 	2020	0.0	Branco	manual	4.0	53990.0	0.0
+569	Hyundai HB20 1.0 Evolution 	2020	0.0	Branco	manual	4.0	56900.0	0.0
+570	Hyundai HB20 1.6 Vision 	2020	2.0	Cinza	automático	5.0	57900.0	0.0
+571	Hyundai HB20 1.0 Evolution 	2020	0.0	Prata	manual	4.0	58900.0	0.0
+572	Hyundai HB20 1.6 Vision 	2020	0.0	Branco	automático	5.0	58950.0	0.0
+573	Hyundai HB20 1.6 Launch Edition 	2020	42.5	Prata	automático	4.0	59990.0	0.0
+574	Hyundai HB20 1.0 T-GDI Evolution 	2020	0.0	Branco	automático		61990.0	0.0
+575	Hyundai HB20 1.6 Vision 	2020	0.0	automático			62790.0	0.0
+576	Hyundai HB20 1.6 Vision 	2020	0.0	automático			62790.0	0.0
+577	Hyundai HB20 1.6 Launch Edition 	2020	0.0	Vermelho	automático		63990.0	0.0
+578	Hyundai HB20 1.0 T-GDI Evolution 	2020	0.0	Várias cores	automático	4.0	63990.0	0.0
+579	Hyundai HB20 1.6 Launch Edition 	2020	6.0	Branco	automático	5.0	64900.0	0.0
+580	Chevrolet Onix 1.0 LT SPE/4 	2019	31.0	Cinza	manual	4.0	36900.0	0.0
+581	Hyundai HB20 1.0 T-GDI Evolution 	2020	0.0	Branco	automático	5.0	66990.0	0.0
+582	Hyundai HB20 1.0 T-GDI Evolution 	2020	0.0	Preto	automático	4.0	67190.0	0.0
+583	Hyundai HB20 1.0 T-GDI Evolution 	2020	411.0	Prata	automático	4.0	67900.0	0.0
+584	Hyundai HB20 1.0 T-GDI Diamond 	2020	0.0	Branco	automático	5.0	68000.0	0.0
+585	Hyundai HB20 1.0 T-GDI Sport 	2020	0.0	Branco	manual	4.0	68990.0	0.0
+586	Hyundai HB20 1.0 T-GDI Sport 	2020	0.0	Cinza	automático	4.0	68990.0	0.0
+587	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Branco	automático		69490.0	0.0
+588	Hyundai HB20 1.0 T-GDI Diamond 	2020	0.0	Vermelho	automático	4.0	69990.0	0.0
+589	Hyundai HB20 1.0 T-GDI Sport 	2020	0.0	Branco	automático	4.0	69990.0	0.0
+590	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Branco	automático	4.0	69990.0	0.0
+591	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	600.0	Prata	automático		69990.0	0.0
+592	Hyundai HB20 1.6 Launch Edition 	2020	0.0	Prata	automático	4.0	70940.0	0.0
+593	Hyundai HB20 1.0 Unique 	2019	32.0	Prata	manual	5.0	40900.0	0.0
+594	Hyundai HB20 1.0 Unique 	2019	51.0	Branco	manual	4.0	40900.0	0.0
+595	Hyundai HB20 1.0 Unique 	2019	29.246	Prata	manual	5.0	40900.0	0.0
+596	Hyundai HB20 1.0 Unique 	2019	28.08	Marrom	manual	4.0	40990.0	0.0
+597	Hyundai HB20 1.0 Unique 	2019	16.097	Prata	manual		41500.0	0.0
+598	Hyundai HB20 1.0 Unique 	2019	37.177	Branco	manual	4.0	41900.0	0.0
+599	Hyundai HB20 1.0 Unique 	2019	32.224000000000004	Preto	manual	5.0	41900.0	0.0
+600	Hyundai HB20 1.0 Unique 	2019	34.0	Cinza	manual	4.0	41900.0	0.0
+601	Hyundai HB20 1.0 Unique 	2019	33.12	Branco	manual	4.0	41900.0	0.0
+602	Hyundai HB20 1.0 Unique 	2019	13.0	Dourado	manual	5.0	41900.0	0.0
+603	Hyundai HB20 1.0 Turbo Comfort Plus 	2019	16.249000000000002	Branco	manual	4.0	45990.0	0.0
+604	Hyundai HB20 1.0 Comfort Plus 	2019	65.0	Prata	manual	3.0	44900.0	0.0
+605	Hyundai HB20 1.6 Premium 	2019	27.8	Dourado	automático	4.0	60890.0	0.0
+606	Hyundai HB20 1.0 Comfort 	2018	38.0	Prata	manual	5.0	37900.0	0.0
+607	Hyundai HB20 1.0 Comfort 	2018	47.0	Marrom	manual	4.0	39900.0	0.0
+608	Hyundai HB20 1.0 Comfort 	2018	54.0	Prata	manual		38900.0	0.0
+609	Hyundai HB20 1.0 Comfort 	2018	33.0	Preto	manual	4.0	39900.0	0.0
+610	Chevrolet Onix 1.0 Turbo Premier 	2020	7.0	Branco	automático		73900.0	0.0
+611	Hyundai HB20 1.0 T-GDI Sport 	2020	0.0	Prata	automático	4.0	70990.0	0.0
+612	Hyundai HB20 1.6 Launch Edition 	2020	0.0	automático			71940.0	0.0
+613	Hyundai HB20 1.6 Launch Edition 	2020	0.0	automático			71940.0	0.0
+614	Hyundai HB20 1.0 T-GDI Diamond 	2020	0.0	automático			73590.0	0.0
+615	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Vermelho	automático	4.0	73990.0	0.0
+616	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Prata	automático	4.0	74540.0	0.0
+617	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático		73900.0	0.0
+618	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Branco	automático		75990.0	0.0
+619	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Branco	automático	4.0	77990.0	0.0
+620	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Branco	automático	4.0	77990.0	0.0
+621	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Prata	automático	4.0	77990.0	0.0
+622	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Vermelho	automático	4.0	79990.0	0.0
+623	Hyundai HB20 1.0 T-GDI Diamond Plus 	2020	0.0	Prata	automático	4.0	75990.0	0.0
+624	Chevrolet Onix 1.0 Turbo Premier 	2020	4.488	Preto	automático	4.0	73990.0	0.0
+625	Hyundai HB20 1.0 Comfort 	2018	58.0	Cinza	manual	5.0	41800.0	0.0
+626	Hyundai HB20 1.0 Comfort 	2018	68.0	Prata	manual	5.0	41900.0	0.0
+627	Hyundai HB20 1.0 Comfort Plus 	2018	101.0	Branco	manual	4.0	41900.0	0.0
+628	Hyundai HB20 1.0 Comfort 	2018	57.0	Azul	manual	5.0	41900.0	0.0
+629	Hyundai HB20 1.0 Comfort 	2018	72.8	Preto	manual	5.0	41990.0	0.0
+630	Hyundai HB20 1.6 Comfort Plus 	2018	35.0	Cinza	manual	4.0	45900.0	0.0
+631	Hyundai HB20 1.6 Comfort Plus 	2018	30.6	Branco	automático		45900.0	0.0
+632	Hyundai HB20 1.6 Premium 	2018	25.2	Branco	automático	4.0	57500.0	0.0
+633	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Branco	automático	4.0	74390.0	0.0
+634	Hyundai HB20 1.0 Comfort Plus 	2017	45.0	Preto	manual	5.0	36900.0	0.0
+635	Hyundai HB20 1.0 Comfort 	2017	71.0	Preto	manual	5.0	38900.0	0.0
+636	Hyundai HB20 1.0 Comfort 	2017	61.0	Prata	manual	5.0	38900.0	0.0
+637	Hyundai HB20 1.0 Comfort 	2017	34.5	Prata	manual		38990.0	0.0
+638	Hyundai HB20 1.0 Comfort 	2017	36.159	Cinza	manual	4.0	39500.0	0.0
+639	Hyundai HB20 1.0 Comfort 	2017	66.0	Cinza	manual	4.0	40900.0	0.0
+640	Hyundai HB20 1.6 Comfort Plus 	2017	50.0	Azul	manual	4.0	42900.0	0.0
+641	Hyundai HB20 1.6 Comfort Plus 	2017	64.913	Cinza	manual	4.0	42990.0	0.0
+642	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Branco	automático	4.0	74990.0	0.0
+643	Hyundai HB20 1.6 Comfort Plus 	2017	50.1	Prata	automático	5.0	45890.0	0.0
+644	Hyundai HB20 1.6 R Spec 	2017	17.0	Vermelho	manual	4.0	48900.0	0.0
+645	Hyundai HB20 1.0 Comfort Plus 	2016	98.0	Prata	manual	4.0	30900.0	0.0
+646	Hyundai HB20 1.0 Comfort Plus 	2016	78.4	Preto	manual	4.0	35900.0	0.0
+647	Hyundai HB20 1.0 Comfort 	2016	13.3	Branco	manual	5.0	36900.0	0.0
+648	Hyundai HB20 1.0 Comfort Plus 	2016	64.774	Marrom	manual	4.0	36899.0	0.0
+649	Hyundai HB20 1.0 Comfort Plus 	2016	57.0	Prata	manual	4.0	37900.0	0.0
+650	Chevrolet Onix 1.0 Turbo Premier 	2020	20.0	Branco	automático	4.0	75000.0	0.0
+651	Hyundai HB20 1.6 Comfort Plus 	2016	41.0	Preto	automático	4.0	39990.0	0.0
+652	Hyundai HB20 1.0 Comfort Plus 	2016	42.707	Branco	manual	4.0	38990.0	0.0
+653	Hyundai HB20 1.0 Comfort Plus 	2016	40.0	Marrom	manual	4.0	39900.0	0.0
+654	Hyundai HB20 1.6 Comfort Style 	2016	48.72	Branco	manual	4.0	39990.0	0.0
+655	Hyundai HB20 1.6 Comfort Plus 	2016	42.0	Branco	manual	5.0	42900.0	0.0
+656	Hyundai HB20 1.6 Comfort Plus 	2016	33.895	Prata	automático	5.0	42990.0	0.0
+657	Hyundai HB20 1.0 Comfort Style 	2015	87.186	Branco	manual	4.0	33900.0	0.0
+658	Chevrolet Onix 1.0 Joy SPE/4 	2019	30.12	Prata	manual	3.0	36900.0	0.0
+659	Chevrolet Onix 1.0 Turbo Premier 	2020	6.147	Preto	automático	5.0	75000.0	0.0
+660	Hyundai HB20 1.0 Comfort Plus 	2015	95.95	Branco	manual	4.0	34899.0	0.0
+661	Hyundai HB20 1.0 Comfort 	2015	61.653	Cinza	manual	4.0	35900.0	0.0
+662	Hyundai HB20 1.0 Comfort Plus 	2015	111.111	Vermelho	manual	4.0	36900.0	0.0
+663	Hyundai HB20 1.6 Premium 	2015	51.489	Branco	manual	4.0	39900.0	0.0
+664	Hyundai HB20 1.6 Premium 	2015	51.795	Preto	automático	4.0	42500.0	0.0
+665	Hyundai HB20 1.6 Premium 	2015	43.0	Branco	automático	4.0	44890.0	0.0
+666	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático	4.0	75246.0	0.0
+667	Hyundai HB20 1.0 Comfort 	2014	94.621	Branco	manual	3.0	28990.0	0.0
+668	Hyundai HB20 1.0 Comfort Plus 	2014	78.0	Branco	manual		29999.0	0.0
+669	Hyundai HB20 1.0 Comfort 	2014	69.536	Branco	manual	4.0	33000.0	0.0
+670	Hyundai HB20 1.0 Comfort Plus 	2014	117.0	Branco	manual	4.0	34590.0	0.0
+671	Hyundai HB20 1.6 Comfort Plus 	2014	76.0	Vermelho	manual	4.0	34900.0	0.0
+672	Hyundai HB20 1.0 Comfort Plus 	2014	92.0	Branco	manual	4.0	34900.0	0.0
+673	Hyundai HB20 1.6 Comfort Plus 	2014	55.0	Branco	manual	4.0	35900.0	0.0
+674	Hyundai HB20 1.0 Comfort Plus 	2013	132.2	Preto	manual	5.0	29700.0	0.0
+675	Hyundai HB20 1.0 Comfort 	2013	110.0	Prata	manual	5.0	30000.0	0.0
+676	Hyundai HB20 1.0 Comfort 	2013	72.921	Vermelho	manual	5.0	31490.0	0.0
+677	Hyundai HB20 1.6 Comfort Plus 	2013	80.0	Prata	manual	5.0	32500.0	0.0
+678	Hyundai HB20 1.6 Premium 	2013	75.0	Vermelho	manual	4.0	34990.0	0.0
+679	Hyundai HB20 1.6 Premium 	2013	82.0	Prata	automático	5.0	38490.0	0.0
+680	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+681	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+682	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+683	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		34552.0	0.0
+684	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+685	Hyundai HB20 1.0 Sense 	2021	0.0	Vermelho	manual		34552.0	0.0
+686	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+687	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual		34552.0	0.0
+688	Hyundai HB20 1.0 Sense 	2021	0.0	Vermelho	manual		34552.0	0.0
+689	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual	5.0	34552.0	0.0
+690	Hyundai HB20 1.0 Sense 	2021	0.0	Cinza	manual	5.0	34552.0	0.0
+691	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+692	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+693	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+694	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual		34552.0	0.0
+695	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual		34552.0	0.0
+696	Hyundai HB20 1.0 Sense 	2021	0.0	Vermelho	manual		34552.0	0.0
+697	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		34552.0	0.0
+698	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual		34552.0	0.0
+699	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual		34552.0	0.0
+700	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+701	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+702	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34552.0	0.0
+703	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual	5.0	34553.0	0.0
+704	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual		34553.0	0.0
+705	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual		34557.0	0.0
+706	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual	4.0	34560.0	0.0
+707	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual	5.0	34570.0	0.0
+708	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual	4.0	34800.0	0.0
+709	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	34990.0	0.0
+710	Hyundai HB20 1.0 Sense 	2021	0.0	Cinza	manual	5.0	35770.0	0.0
+711	Hyundai HB20 1.0 Vision 	2021	0.0	Preto	manual	5.0	37216.0	0.0
+712	Hyundai HB20 1.0 Vision 	2021	0.0	Branco	manual		37216.0	0.0
+713	Hyundai HB20 1.0 Vision 	2021	0.0	Várias cores	manual		37216.0	0.0
+714	Hyundai HB20 1.0 Vision 	2021	0.0	Várias cores	manual		37216.0	0.0
+715	Hyundai HB20 1.0 Vision 	2021	0.0	Branco	manual		37970.0	0.0
+716	Hyundai HB20 1.0 Vision 	2021	0.0	Várias cores	manual	4.0	37990.0	0.0
+717	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual	5.0	38100.0	0.0
+718	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	38300.0	0.0
+719	Hyundai HB20 1.0 Sense 	2021	0.0	Prata	manual	5.0	39890.0	0.0
+720	Hyundai HB20 1.0 Vision 	2021	0.0	Várias cores	manual	4.0	41500.0	0.0
+721	Hyundai HB20 1.0 Sense 	2021	1.0	Preto	manual	4.0	43300.0	0.0
+722	Hyundai HB20 1.0 Vision 	2021	0.0	Branco	manual	5.0	44553.0	0.0
+723	Hyundai HB20 1.0 Vision 	2021	0.0	Preto	manual	5.0	44553.0	0.0
+724	Hyundai HB20 1.6 Vision 	2021	0.0	Preto	manual	5.0	45890.0	0.0
+725	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Branco	automático	5.0	75990.0	0.0
+726	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual	4.0	45900.0	0.0
+727	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	4.0	45990.0	0.0
+728	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	49590.0	0.0
+729	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual	5.0	49590.0	0.0
+730	Hyundai HB20 1.0 Sense 	2021	0.0	Várias cores	manual	5.0	46490.0	0.0
+731	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	4.0	46990.0	0.0
+732	Hyundai HB20 1.0 Sense 	2021	0.0	Preto	manual	4.0	46990.0	0.0
+733	Hyundai HB20 1.0 Sense 	2021	0.0	Branco	manual	5.0	46990.0	0.0
+734	Chevrolet Onix 1.0 	2020	0.0	Várias cores	manual	4.0	37995.0	1.0
+735	Chevrolet Onix 1.0 Joy SPE/4 	2019	44.25	Cinza	manual	4.0	37500.0	0.0
+736	Jeep Renegade 1.8 	2020	18.169	Cinza	automático	5.0	79900.0	0.0
+737	Jeep Renegade 1.8 Longitude 	2020	2.0	Branco	automático	4.0	86990.0	0.0
+738	Jeep Renegade 1.8 Sport 	2020	0.0	Preto	automático	4.0	92000.0	0.0
+739	Jeep Renegade 1.8 Limited 	2020	3.4810000000000003	Branco	automático		92900.0	0.0
+740	Jeep Renegade 1.8 Limited 	2020	8.898	Branco	automático	5.0	94900.0	0.0
+741	Jeep Renegade 1.8 Sport 	2019	39.0	Vermelho	automático	4.0	63900.0	0.0
+742	Jeep Renegade 1.8 Sport 	2019	40.034	Preto	manual	4.0	67990.0	0.0
+743	Jeep Renegade 1.8 Sport 	2019	37.304	Preto	automático	4.0	69470.0	0.0
+744	Jeep Renegade 1.8 Sport 	2019	35.0	Prata	automático	4.0	71900.0	0.0
+745	Jeep Renegade 1.8 Sport 	2019	20.671	Cinza	automático	4.0	72000.0	0.0
+746	Jeep Renegade 1.8 Longitude 	2019	39.938	Prata	automático		74900.0	0.0
+747	Jeep Renegade 1.8 Longitude 	2019	40.0	Vermelho	automático	5.0	75900.0	0.0
+748	Jeep Renegade 1.8 Longitude 	2019	31.0	Prata	automático	4.0	79900.0	0.0
+749	Jeep Renegade Sport 1.8 	2018	22.9	Preto	manual	4.0	61900.0	1.0
+750	Jeep Renegade Sport 1.8 	2018	50.7	Prata	manual	4.0	61900.0	1.0
+751	Jeep Renegade Longitude 1.8 	2018	47.0	Preto	automático	4.0	72900.0	1.0
+752	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	5.0	90990.0	0.0
+753	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	4.0	91590.0	0.0
+754	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	5.0	91590.0	0.0
+755	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	4.0	91590.0	0.0
+756	Jeep Renegade 1.8 WSL 	2020	0.0	Branco	automático	4.0	91890.0	0.0
+757	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	92790.0	0.0
+758	Jeep Renegade 1.8 Longitude 	2020	0.0	Azul	automático	4.0	92900.0	0.0
+759	Jeep Renegade 1.8 Limited 	2020	0.0	Vinho	automático	4.0	93471.0	0.0
+760	Jeep Renegade 1.8 Limited 	2020	0.0	Verde	automático	4.0	94612.0	0.0
+761	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	5.0	76900.0	0.0
+762	Jeep Renegade 1.8 Longitude 	2020	0.0	Preto	automático	5.0	94811.0	0.0
+763	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	5.0	94890.0	0.0
+764	Jeep Renegade 1.8 Longitude 	2020	0.0	Cinza	automático	4.0	94900.0	0.0
+765	Jeep Renegade 1.8 Limited 	2020	0.0	Várias cores	automático	4.0	94900.0	0.0
+766	Jeep Renegade 1.8 Limited 	2020	4.0	Cinza	automático	4.0	94990.0	0.0
+767	Jeep Renegade 1.8 Limited 	2020	17.339000000000002	Preto	automático	4.0	95990.0	0.0
+768	Jeep Renegade 1.8 Limited 	2020	0.0	Marrom	automático	4.0	96894.0	0.0
+769	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Várias cores	automático		77090.0	0.0
+770	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	96900.0	0.0
+771	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	96990.0	0.0
+772	Jeep Renegade 1.8 Limited 	2020	0.0	Várias cores	automático	4.0	97490.0	0.0
+773	Jeep Renegade 1.8 Longitude 	2020	0.0	Preto	automático	4.0	98900.0	0.0
+774	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	5.0	99790.0	0.0
+775	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	99900.0	0.0
+776	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Várias cores	automático	5.0	77190.0	0.0
+777	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	99900.0	0.0
+778	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	99990.0	0.0
+779	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático		99990.0	0.0
+780	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Não informada.	automático	5.0	99990.0	0.0
+781	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	100206.0	0.0
+782	Jeep Renegade 1.8 Limited 	2020	0.0	Marrom	automático		100519.0	0.0
+783	Jeep Renegade 1.8 Limited 	2020	0.0	Vermelho	automático	4.0	103900.0	0.0
+784	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	103900.0	0.0
+785	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	5.0	104900.0	0.0
+786	Chevrolet Onix 1.0 Turbo Premier 	2020	300.0	Prata	automático	5.0	77900.0	0.0
+787	Jeep Renegade 1.8 Limited 	2020	0.0	Cinza	automático	5.0	104990.0	0.0
+788	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	5.0	105490.0	0.0
+789	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático		107490.0	0.0
+790	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	5.0	109990.0	0.0
+791	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	4.0	113990.0	0.0
+792	Jeep Renegade 1.8 Limited 	2020	0.0	Marrom	automático	4.0	114540.0	0.0
+793	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	77950.0	0.0
+794	Jeep Renegade 1.8 Limited 	2020	0.0	Branco	automático	5.0	119990.0	0.0
+795	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Verde	automático	4.0	121950.0	0.0
+796	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Não informada.	automático	5.0	121980.0	0.0
+797	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Não informada.	automático	4.0	124952.0	0.0
+798	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Prata	automático		124966.0	0.0
+799	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	77960.0	0.0
+800	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	4.0	126900.0	0.0
+801	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	15.703	Branco	automático	4.0	128900.0	0.0
+802	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Verde	automático	4.0	131569.0	0.0
+803	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Não informada.	automático	5.0	131570.0	0.0
+804	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	5.0	131900.0	0.0
+805	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	4.0	131900.0	0.0
+806	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Azul	automático	5.0	132990.0	0.0
+807	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual		40275.0	1.0
+808	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	77970.0	0.0
+809	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Preto	automático	4.0	133990.0	0.0
+810	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Branco	automático	4.0	133990.0	0.0
+811	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Branco	automático	5.0	133990.0	0.0
+812	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Branco	automático		135102.0	0.0
+813	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Preto	automático		136640.0	0.0
+814	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	4.0	138990.0	0.0
+815	Jeep Renegade 2.0 TDI Trailhawk 4WD 	2020	0.0	Azul	automático	4.0	141590.0	0.0
+816	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	4.0	141990.0	0.0
+817	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Preto	automático	4.0	77980.0	0.0
+818	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Prata	automático	4.0	143640.0	0.0
+819	Jeep Renegade 2.0 TDI Longitude 4WD 	2020	0.0	Branco	automático	5.0	146990.0	0.0
+820	Jeep Renegade 1.8 Longitude 	2020	0.0	Cinza	automático	4.0	148000.0	0.0
+821	Jeep Renegade 1.8 Longitude 	2019	26.0	Branco	automático	4.0	60789.0	0.0
+822	Jeep Renegade 1.8 Longitude 	2019	38.0	Branco	automático	4.0	60890.0	0.0
+823	Jeep Renegade 1.8 Sport 	2019	51.984	Branco	automático	4.0	61520.0	0.0
+824	Jeep Renegade 1.8 Longitude 	2019	19.0	Branco	automático	4.0	62900.0	0.0
+825	Jeep Renegade 1.8 Longitude 	2019	200.0	Preto	automático	4.0	63920.0	0.0
+826	Jeep Renegade 1.8 Longitude 	2019	24.713	Branco	automático	4.0	65520.0	0.0
+827	Jeep Renegade 1.8 Sport 	2019	40.15	Branco	manual	4.0	65740.0	0.0
+828	Jeep Renegade 1.8 Sport 	2019	44.791	Vermelho	manual	4.0	65740.0	0.0
+829	Jeep Renegade 1.8 Sport 	2019	52.358	Preto	manual	4.0	65740.0	0.0
+830	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Azul	automático	5.0	79990.0	0.0
+831	Jeep Renegade 1.8 Sport 	2019	40.371	Vermelho	manual		65900.0	0.0
+832	Jeep Renegade 1.8 Longitude 	2019	19.0	Branco	automático	5.0	66900.0	0.0
+833	Jeep Renegade 1.8 Sport 	2019	51.6	Cinza	manual	4.0	67090.0	0.0
+834	Jeep Renegade 1.8 Sport 	2019	43.0	Prata	automático	4.0	67090.0	0.0
+835	Jeep Renegade 1.8 Sport 	2019	42.9	Preto	manual	4.0	65990.0	0.0
+836	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Vermelho	automático	4.0	80190.0	0.0
+837	Jeep Renegade 1.8 Sport 	2019	41.644	Vermelho	manual	4.0	67090.0	0.0
+838	Jeep Renegade 1.8 Sport 	2019	39.876	Branco	manual	4.0	67900.0	0.0
+839	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Azul	automático	5.0	81490.0	0.0
+840	Jeep Renegade 1.8 Sport 	2019	35.77	Preto	manual	4.0	68590.0	0.0
+841	Jeep Renegade 1.8 Sport 	2019	35.915	Branco	manual	4.0	68590.0	0.0
+842	Jeep Renegade 1.8 Sport 	2019	31.863000000000003	Branco	manual	4.0	68590.0	0.0
+843	Jeep Renegade 1.8 Sport 	2019	38.582	Branco	manual	4.0	68590.0	0.0
+844	Jeep Renegade 1.8 Sport 	2019	36.756	Preto	manual	4.0	68590.0	0.0
+845	Jeep Renegade 1.8 Sport 	2019	38.017	Cinza	automático	4.0	68590.0	0.0
+846	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Vermelho	automático	4.0	81690.0	0.0
+847	Jeep Renegade 1.8 Sport 	2019	32.251	Branco	manual	4.0	68590.0	0.0
+848	Jeep Renegade 1.8 Sport 	2019	40.367	Prata	manual	4.0	68900.0	0.0
+849	Jeep Renegade 1.8 Sport 	2019	40.2	Preto	manual	4.0	69900.0	0.0
+850	Jeep Renegade 1.8 Sport 	2019	30.665	Preto	manual	4.0	69900.0	0.0
+851	Jeep Renegade 1.8 Sport 	2019	35.654	Cinza	manual	4.0	69990.0	0.0
+852	Jeep Renegade 1.8 Sport 	2019	32.165	Preto	manual	4.0	69990.0	0.0
+853	Jeep Renegade 1.8 Sport 	2019	31.763	Preto	manual	4.0	69990.0	0.0
+854	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Prata	automático	4.0	81890.0	0.0
+855	Jeep Renegade 1.8 Sport 	2019	32.29	Preto	manual	4.0	69999.0	0.0
+856	Jeep Renegade 1.8 Longitude 	2019	27.614	Prata	automático	4.0	70000.0	0.0
+857	Jeep Renegade 1.8 Sport 	2019	50.29	Prata	automático	4.0	70350.0	0.0
+858	Jeep Renegade 1.8 Sport 	2019	51.43	Prata	automático	4.0	70350.0	0.0
+859	Jeep Renegade 1.8 Sport 	2019	53.182	Prata	automático	4.0	70350.0	0.0
+860	Jeep Renegade 1.8 Sport 	2019	41.269	Vermelho	automático	4.0	70350.0	0.0
+861	Jeep Renegade 1.8 Sport 	2019	43.808	Branco	automático	4.0	70350.0	0.0
+862	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Branco	automático	4.0	82990.0	0.0
+863	Jeep Renegade 1.8 Sport 	2019	41.36	Vermelho	automático	4.0	70350.0	0.0
+864	Jeep Renegade 1.8 Sport 	2019	33.0	Branco	automático	4.0	70800.0	0.0
+865	Jeep Renegade 1.8 Longitude 	2019	55.747	Vermelho	automático	4.0	70900.0	0.0
+866	Jeep Renegade 1.8 Sport 	2019	61.0	Branco	manual	4.0	71000.0	0.0
+867	Jeep Renegade 1.8 	2019	22.0	Preto	automático	4.0	70900.0	0.0
+868	Jeep Renegade 1.8 Sport 	2019	33.42	Branco	automático	4.0	71530.0	0.0
+869	Jeep Renegade 1.8 Sport 	2019	38.015	Cinza	automático	4.0	71530.0	0.0
+870	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Prata	automático		83990.0	0.0
+871	Jeep Renegade 1.8 Sport 	2019	38.81	Vermelho	automático	4.0	71530.0	0.0
+872	Jeep Renegade 1.8 Sport 	2019	39.069	Branco	automático	4.0	71530.0	0.0
+873	Jeep Renegade 1.8 Sport 	2019	32.474000000000004	Prata	automático	4.0	71530.0	0.0
+874	Jeep Renegade 1.8 	2019	38.993	Prata	automático	4.0	71530.0	0.0
+875	Jeep Renegade 1.8 Sport 	2019	40.597	Prata	automático	4.0	71790.0	0.0
+876	Jeep Renegade 1.8 Sport 	2019	42.188	Branco	automático	4.0	71790.0	0.0
+877	Jeep Renegade 1.8 Sport 	2019	44.716	Prata	automático	4.0	71790.0	0.0
+878	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual		40299.0	1.0
+879	Jeep Renegade 1.8 Sport 	2019	47.9	Vermelho	automático	4.0	71790.0	0.0
+880	Jeep Renegade 1.8 Sport 	2019	54.117	Prata	automático	4.0	71790.0	0.0
+881	Chevrolet Onix 1.0 Joy SPE/4 	2019	50.0	Branco	manual	4.0	37850.0	0.0
+882	Jeep Renegade 1.8 Sport 	2019	50.0	Vermelho	automático	4.0	71790.0	0.0
+883	Jeep Renegade 1.8 Limited 	2019	40.128	Cinza	automático	3.0	71900.0	1.0
+884	Jeep Renegade 1.8 Sport 	2019	13.6	Preto	automático	4.0	71900.0	0.0
+885	Jeep Renegade 1.8 Longitude 	2019	38.954	Branco	automático	4.0	71900.0	0.0
+886	Jeep Renegade 1.8 Longitude 	2019	20.5	Branco	automático	4.0	71999.0	0.0
+887	Chevrolet Onix 1.0 Joy SPE/4 	2019	36.98	Cinza	manual	5.0	37890.0	0.0
+888	Jeep Renegade 1.8 	2017	44.0	Preto	manual	4.0	56900.0	1.0
+889	Jeep Renegade Sport 1.8 	2017	51.65	Branco	manual	4.0	65000.0	1.0
+890	Jeep Renegade Sport 1.8 	2017	36.94	Cinza	automático	5.0	66900.0	1.0
+891	Jeep Renegade Longitude 1.8 	2017	59.0	Cinza	automático	4.0	67899.0	1.0
+892	Jeep Renegade Sport 1.8 	2016	0.0	Vermelho	automático	4.0	52900.0	1.0
+893	Jeep Renegade 1.8 	2016	50.0	Preto	automático	4.0	55000.0	1.0
+894	Jeep Renegade Sport 1.8 	2016	77.0	Branco	manual	5.0	55900.0	1.0
+895	Jeep Renegade Sport 1.8 	2016	53.0	Preto	automático	4.0	55900.0	1.0
+896	Jeep Renegade 1.8 	2016	88.5	Preto	automático	4.0	58900.0	1.0
+897	Jeep Renegade Sport 1.8 	2016	63.504	Branco	automático	4.0	58990.0	1.0
+898	Jeep Renegade Sport 1.8 	2016	66.05	Branco	automático	4.0	59800.0	1.0
+899	Jeep Renegade Longitude 1.8 	2016	41.77	Prata	automático	4.0	59900.0	1.0
+900	Jeep Renegade 1.8 Longitude 	2019	25.0	Cinza	automático	4.0	71999.0	0.0
+901	Jeep Renegade 1.8 Sport 	2019	20.737	Vermelho	automático	4.0	72510.0	0.0
+902	Jeep Renegade 1.8 Sport 	2019	29.8	Cinza	automático	4.0	72990.0	0.0
+903	Chevrolet Onix 1.0 Joy SPE/4 	2019	54.0	Branco	manual		37900.0	0.0
+904	Jeep Renegade 1.8 Sport 	2019	39.412	Vermelho	automático	4.0	72990.0	0.0
+905	Jeep Renegade 1.8 Sport 	2019	37.774	Cinza	automático	4.0	72990.0	0.0
+906	Jeep Renegade 1.8 Sport 	2019	34.263000000000005	Vermelho	automático	4.0	72990.0	0.0
+907	Jeep Renegade 1.8 Sport 	2019	200.0	Branco	automático	4.0	72990.0	0.0
+908	Chevrolet Onix 1.0 Joy SPE/4 	2019	37.0	Prata	manual	4.0	37900.0	0.0
+909	Jeep Renegade Longitude 1.8 	2016	999.999	Branco	automático	4.0	61900.0	1.0
+910	Jeep Renegade 1.8 	2016	77.317	Branco	automático		64000.0	1.0
+911	Jeep Renegade Sport 2.0 Multijet TD 4WD 	2016	101.575	Prata	automático		76000.0	0.0
+912	Jeep Renegade Longitude 2.0 Multijet TD 4WD 	2016	90.0	Branco	automático	5.0	83900.0	0.0
+913	Jeep Renegade Sport 2.0 Multijet TD 4WD 	2016	17.0	Vermelho	automático	3.0	84900.0	0.0
+914	Jeep Renegade Sport 2.0 Multijet TD 4WD 	2016	62.22	Preto	automático	4.0	86900.0	0.0
+915	Jeep Renegade Trailhawk 2.0 Multijet TD 4WD 	2016	66.44	Laranja	automático	5.0	86900.0	0.0
+916	Jeep Renegade 1.8 	2021	0.0	Preto	automático	4.0	54662.0	0.0
+917	Jeep Renegade 1.8 	2021	0.0	Várias cores	automático	5.0	71991.0	0.0
+918	Jeep Renegade 1.8 	2021	0.0	Preto	automático	5.0	76990.0	0.0
+919	Jeep Renegade 1.8 Sport 	2021	0.0	Branco	automático		83250.0	0.0
+920	Jeep Renegade 1.8 STD 	2021	0.0	Preto	automático	4.0	86990.0	0.0
+921	Jeep Renegade 1.8 Sport 	2021	0.0	Preto	automático	5.0	89900.0	0.0
+922	Jeep Renegade 1.8 Sport 	2021	0.0	Preto	automático	4.0	91590.0	0.0
+923	Jeep Renegade 1.8 Sport 	2021	0.0	Preto	automático	4.0	93990.0	0.0
+924	Jeep Renegade 2.0 TDI Longitude 4WD 	2021	0.0	automático			104657.0	0.0
+925	Jeep Renegade 1.8 Limited 	2021	0.0	Preto	automático	4.0	122990.0	0.0
+926	Jeep Renegade 1.8 	2020	0.0	Várias cores	automático		54000.0	0.0
+927	Jeep Renegade 1.8 	2020	0.0	Várias cores	automático	5.0	54389.0	0.0
+928	Jeep Renegade 1.8 	2020	0.0	Várias cores	automático	5.0	54389.0	0.0
+929	Chevrolet Onix 1.0 LT SPE/4 	2019	47.675	Prata	manual	4.0	38890.0	0.0
+930	Jeep Renegade 1.8 	2020	0.0	Não informada.	automático	5.0	54662.0	0.0
+931	Jeep Renegade 1.8 	2020	0.0	Não informada.	automático		54662.0	0.0
+932	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático	5.0	54664.0	0.0
+933	Jeep Renegade 1.8 	2020	0.0	Não informada.	automático	5.0	54665.0	0.0
+934	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	4.0	64608.0	0.0
+935	Jeep Renegade 1.8 Sport 	2020	0.0	Várias cores	automático		64795.0	0.0
+936	Jeep Renegade 1.8 Sport 	2020	0.0	Preto	automático		64796.0	0.0
+937	Jeep Renegade 1.8 	2020	0.0	Prata	automático	5.0	69900.0	0.0
+938	Jeep Renegade 1.8 	2020	0.0	Preto	automático	4.0	69990.0	0.0
+939	Chevrolet Onix 1.0 LT 	2020	0.0	Não informada.	manual		40599.0	1.0
+940	Jeep Renegade 1.8 	2020	0.0	Branco	automático	4.0	69990.0	0.0
+941	Jeep Renegade 1.8 	2020	0.0	Branco	automático		69990.0	0.0
+942	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático		69990.0	0.0
+943	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático	5.0	69990.0	0.0
+944	Jeep Renegade 1.8 	2020	0.0	Preto	automático	4.0	69999.0	0.0
+945	Jeep Renegade 1.8 	2020	0.0	Branco	automático		71198.0	0.0
+946	Jeep Renegade 1.8 Sport 	2020	0.0	Verde	automático	4.0	71787.0	0.0
+947	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	4.0	71787.0	0.0
+948	Chevrolet Onix 1.0 Joy SPE/4 	2019	30.3	Não informada.	manual	4.0	38900.0	0.0
+949	Jeep Renegade 1.8 	2020	0.0	Prata	automático	5.0	71926.0	0.0
+950	Jeep Renegade 1.8 	2020	0.0	Prata	automático	5.0	72990.0	0.0
+951	Jeep Renegade 1.8 	2020	0.0	Prata	automático	4.0	72990.0	0.0
+952	Jeep Renegade 1.8 	2020	0.0	Branco	automático	5.0	73500.0	0.0
+953	Jeep Renegade 1.8 Sport 	2020	8.2	Branco	automático	5.0	73900.0	0.0
+954	Jeep Renegade 1.8 	2020	0.0	Não informada.	automático	5.0	73990.0	0.0
+955	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático	4.0	73990.0	0.0
+956	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático	4.0	73990.0	0.0
+957	Chevrolet Onix 1.0 Joy SPE/4 	2019	45.652	Branco	manual	5.0	38900.0	0.0
+958	Jeep Renegade 1.8 	2020	0.0	Vermelho	automático	4.0	74990.0	0.0
+959	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	4.0	75690.0	0.0
+960	Jeep Renegade 1.8 	2020	0.0	Prata	automático	5.0	75900.0	0.0
+961	Jeep Renegade 1.8 	2020	0.0	Branco	automático	4.0	75900.0	0.0
+962	Jeep Renegade 1.8 Sport 	2020	12.84	Cinza	automático	4.0	75900.0	0.0
+963	Jeep Renegade 1.8 	2020	0.0	Branco	automático	5.0	75990.0	0.0
+964	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	76290.0	0.0
+965	Chevrolet Onix 1.0 Joy SPE/4 	2019	25.0	Prata	manual	5.0	38900.0	0.0
+966	Jeep Renegade 1.8 	2020	0.0	Várias cores	automático	4.0	76990.0	0.0
+967	Jeep Renegade 1.8 Sport 	2020	0.0	Não informada.	automático	4.0	77196.0	0.0
+968	Jeep Renegade 1.8 WSL 	2020	0.0	Branco	automático	4.0	77647.0	0.0
+969	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	4.0	77780.0	0.0
+970	Jeep Renegade 1.8 Sport 	2020	0.0	Não informada.	automático	5.0	77800.0	0.0
+971	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	4.0	77845.0	0.0
+972	Jeep Renegade 1.8 Sport 	2020	0.0	Cinza	automático	5.0	78000.0	0.0
+973	Chevrolet Onix 1.0 Joy SPE/4 	2019	29.565	Branco	manual	4.0	38900.0	0.0
+974	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático		78890.0	0.0
+975	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	5.0	78900.0	0.0
+976	Jeep Renegade 1.8 	2020	101.0	Branco	automático	4.0	79900.0	0.0
+977	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	5.0	79990.0	0.0
+978	Jeep Renegade 1.8 Sport 	2020	0.0	Cinza	automático	4.0	80900.0	0.0
+979	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	5.0	80990.0	0.0
+980	Jeep Renegade 1.8 Sport 	2020	8.283999999999999	Prata	automático	4.0	80990.0	0.0
+981	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	5.0	81031.0	0.0
+982	Jeep Renegade 1.8 Sport 	2020	0.0	Várias cores	automático		81490.0	0.0
+983	Jeep Renegade 1.8 Sport 	2020	0.0	Não informada.	automático	4.0	81964.0	0.0
+984	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	4.0	83900.0	0.0
+985	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	4.0	83990.0	0.0
+986	Chevrolet Onix 1.0 Joy SPE/4 	2019	41.24	Branco	manual	4.0	38990.0	0.0
+987	Jeep Renegade 1.8 Sport 	2020	0.0	Vermelho	automático	4.0	83990.0	0.0
+988	Jeep Renegade 1.8 Sport 	2020	0.0	Preto	automático	5.0	84140.0	0.0
+989	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	84374.0	0.0
+990	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	5.0	84375.0	0.0
+991	Jeep Renegade 1.8 Longitude 	2020	41.062	Branco	automático	4.0	84900.0	0.0
+992	Jeep Renegade 1.8 Sport 	2020	0.0	Cinza	automático	5.0	85072.0	0.0
+993	Jeep Renegade 1.8 Sport 	2020	0.0	Prata	automático	5.0	85590.0	0.0
+994	Jeep Renegade 1.8 Longitude 	2020	43.309	Branco	automático	4.0	85990.0	0.0
+995	Jeep Renegade 1.8 Longitude 	2020	40.887	Prata	automático	4.0	86300.0	0.0
+996	Jeep Renegade 1.8 Longitude 	2020	7.2810000000000015	Preto	automático	4.0	86900.0	0.0
+997	Jeep Renegade 1.8 Longitude 	2020	40.113	Cinza	automático	4.0	86900.0	0.0
+998	Jeep Renegade 1.8 Longitude 	2020	8.982999999999997	Branco	automático	4.0	86900.0	0.0
+999	Jeep Renegade 1.8 Longitude 	2020	40.075	Cinza	automático	4.0	87880.0	0.0
+1000	Jeep Renegade 1.8 Longitude 	2020	0.0	Vermelho	automático	4.0	87880.0	0.0
+1001	Jeep Renegade 1.8 Longitude 	2020	38.45	Cinza	automático	4.0	88060.0	0.0
+1002	Jeep Renegade 1.8 Longitude 	2020	0.0	Não informada.	automático	5.0	88130.0	0.0
+1003	Jeep Renegade 1.8 Longitude 	2020	0.0	Verde	automático	4.0	88138.0	0.0
+1004	Jeep Renegade 1.8 Longitude 	2020	0.0	Não informada.	automático	4.0	88150.0	0.0
+1005	Jeep Renegade 1.8 Limited 	2020	0.0	Verde	automático	5.0	88290.0	0.0
+1006	Jeep Renegade 1.8 Limited 	2020	0.0	Preto	automático	5.0	88388.0	0.0
+1007	Jeep Renegade 1.8 Longitude 	2020	0.0	Prata	automático	5.0	88420.0	0.0
+1008	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático		88760.0	0.0
+1009	Chevrolet Onix 1.0 LT SPE/4 	2019	39.874	Preto	manual	4.0	39900.0	0.0
+1010	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	88900.0	0.0
+1011	Jeep Renegade 1.8 Sport 	2020	0.0	Branco	automático	5.0	88900.0	0.0
+1012	Jeep Renegade 1.8 Longitude 	2020	0.0	Branco	automático	4.0	88990.0	0.0
+1013	Jeep Renegade 1.8 Longitude 	2020	0.0	Cinza	automático	4.0	88990.0	0.0
+1014	Jeep Renegade 1.8 Sport 	2020	0.0	Cinza	automático	4.0	89690.0	0.0
+1015	Jeep Renegade 1.8 Longitude 	2020	26.65	Branco	automático	5.0	90990.0	0.0
+1016	Jeep Renegade 1.8 Longitude 	2020	13.5	Branco	automático	5.0	90990.0	0.0
+1017	Chevrolet Onix 1.0 LT 	2020	45.389	Prata	manual	4.0	41900.0	1.0
+1018	Renault Kwid 1.0 Zen 	2021	0.0	Várias cores	manual	4.0	29599.0	0.0
+1019	Renault Kwid 1.0 Outsider 	2021	6.509	Preto	manual		43500.0	0.0
+1020	Renault Kwid 1.0 Intense 	2021	3.0	Branco	manual	4.0	46900.0	0.0
+1021	Renault Kwid 1.0 Zen 	2020	29.044	Prata	manual		36990.0	0.0
+1022	Renault Kwid 1.0 Life 	2020	20.0	Branco	manual	3.0	37900.0	0.0
+1023	Renault Kwid 1.0 Zen 	2020	15.0	Branco	manual	4.0	40990.0	0.0
+1024	Renault Kwid Zen 1.0 12v SCe 	2019	48.357	Branco	manual	4.0	29900.0	1.0
+1025	Renault Kwid Zen 1.0 12v SCe 	2019	45.0	Branco	manual	5.0	29990.0	1.0
+1026	Renault Kwid Zen 1.0 12v SCe 	2019	53.0	Branco	manual	5.0	33500.0	1.0
+1027	Renault Kwid Zen 1.0 12v SCe 	2019	37.0	Vermelho	manual	5.0	34900.0	1.0
+1028	Renault Kwid Zen 1.0 12v SCe 	2019	17.0	Laranja	manual	5.0	35999.0	1.0
+1029	Renault Kwid Zen 1.0 12v SCe 	2019	8.0	Branco	manual	4.0	37900.0	1.0
+1030	Renault Kwid Zen 1.0 12v SCe 	2018	30.0	Branco	manual	5.0	27900.0	1.0
+1031	Renault Kwid Zen 1.0 12v SCe 	2018	23.0	Laranja	manual	4.0	29520.0	1.0
+1032	Renault Kwid Zen 1.0 12v SCe 	2018	65.0	Branco	manual	4.0	31500.0	1.0
+1033	Renault Kwid Zen 1.0 12v SCe 	2018	69.37	Prata	manual	4.0	31900.0	1.0
+1034	Renault Kwid Zen 1.0 12v SCe 	2018	39.519	Prata	manual	4.0	31900.0	1.0
+1035	Chevrolet Onix 1.0 Joy SPE/4 	2019	200.0	Cinza	manual	4.0	28961.0	0.0
+1036	Renault Kwid 1.0 Zen 	2020	45.31	Branco	manual	4.0	32990.0	0.0
+1037	Renault Kwid 1.0 Life 	2020	0.0	Branco	manual	4.0	33240.0	0.0
+1038	Renault Kwid 1.0 Life 	2020	29.703000000000007	Prata	manual	4.0	33550.0	0.0
+1039	Renault Kwid 1.0 Zen 	2020	28.051	Vermelho	manual	4.0	33550.0	0.0
+1040	Renault Kwid 1.0 Zen 	2020	25.73	Branco	manual	4.0	33900.0	0.0
+1041	Chevrolet Onix 1.0 Joy SPE/4 	2019	200.0	Branco	manual	4.0	28998.0	0.0
+1042	Renault Kwid 1.0 Zen 	2020	31.874	Prata	manual	4.0	33900.0	0.0
+1043	Renault Kwid 1.0 Zen 	2020	23.578000000000007	Branco	manual	4.0	34220.0	0.0
+1044	Renault Kwid 1.0 Life 	2020	19.494	Prata	manual	4.0	34220.0	0.0
+1045	Renault Kwid 1.0 Zen 	2020	24.143	Branco	manual	4.0	34220.0	0.0
+1046	Renault Kwid 1.0 Life 	2020	24.143	Prata	manual	4.0	34220.0	0.0
+1047	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual	5.0	34500.0	0.0
+1048	Renault Kwid 1.0 Zen 	2020	100.0	Prata	manual	4.0	34900.0	0.0
+1049	Chevrolet Onix 1.0 Joy SPE/4 	2019	38.845	Branco	manual	4.0	28999.0	0.0
+1050	Renault Kwid 1.0 Intense 	2020	34.526	Branco	manual	4.0	34900.0	0.0
+1051	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual	4.0	29990.0	0.0
+1052	Renault Kwid 1.0 Zen 	2020	23.0	Preto	manual	4.0	34990.0	0.0
+1053	Renault Kwid 1.0 Intense 	2020	0.0	Branco	manual		34990.0	0.0
+1054	Renault Kwid 1.0 Zen 	2020	25.635	Prata	manual	4.0	34990.0	0.0
+1055	Renault Kwid 1.0 Zen 	2020	37.449	Prata	manual	4.0	35000.0	0.0
+1056	Chevrolet Onix 1.0 Joy SPE/4 	2019	38.845	Branco	manual	4.0	28999.0	0.0
+1057	Renault Kwid 1.0 Zen 	2020	40.99	Branco	manual	4.0	35490.0	0.0
+1058	Renault Kwid 1.0 Zen 	2020	29.703000000000007	Branco	manual	4.0	36320.0	0.0
+1059	Renault Kwid 1.0 Zen 	2020	27.111	Branco	manual	4.0	36320.0	0.0
+1060	Renault Kwid 1.0 Zen 	2020	33.257	Branco	manual	4.0	35760.0	0.0
+1061	Renault Kwid 1.0 Zen 	2020	38.0	Branco	manual	4.0	35760.0	0.0
+1062	Renault Kwid 1.0 Zen 	2020	26.116	Vermelho	manual	4.0	35800.0	0.0
+1063	Renault Kwid 1.0 Zen 	2020	20.485	Branco	manual	4.0	35890.0	0.0
+1064	Renault Kwid 1.0 Zen 	2020	34.111	Branco	manual	5.0	35890.0	0.0
+1065	Renault Kwid 1.0 Zen 	2020	19.0	Branco	manual	5.0	35900.0	0.0
+1066	Chevrolet Onix 1.0 Joy SPE/4 	2019	18.752	Prata	manual	5.0	29690.0	0.0
+1067	Renault Kwid 1.0 Zen 	2020	27.5	Prata	manual	5.0	35900.0	0.0
+1068	Renault Kwid 1.0 Zen 	2020	32.514	Branco	manual	4.0	35900.0	0.0
+1069	Renault Kwid 1.0 Zen 	2020	15.0	Branco	manual	4.0	35990.0	0.0
+1070	Renault Kwid 1.0 Zen 	2020	23.518	Laranja	manual	4.0	37050.0	0.0
+1071	Chevrolet Onix 1.0 Joy SPE/4 	2019	28.0	Branco	manual	4.0	29990.0	0.0
+1072	Renault Kwid 1.0 Zen 	2020	4.6	Prata	manual	4.0	36400.0	0.0
+1073	Renault Kwid 1.0 Zen 	2020	33.128	Branco	manual	4.0	36490.0	0.0
+1074	Chevrolet Onix 1.0 	2020	40.121	Branco	manual	4.0	42400.0	1.0
+1075	Chevrolet Onix 1.0 Joy SPE/4 	2019	18.043	Prata	manual	5.0	29990.0	0.0
+1076	Renault Kwid 1.0 Zen 	2020	36.103	Prata	manual	5.0	36490.0	0.0
+1077	Renault Kwid 1.0 Zen 	2020	28.172	Branco	manual	4.0	36490.0	0.0
+1078	Renault Kwid 1.0 Zen 	2020	38.149	Branco	manual	4.0	36490.0	0.0
+1079	Renault Kwid 1.0 Zen 	2020	27.774	Branco	manual		32990.0	0.0
+1080	Renault Kwid 1.0 Zen 	2020	34.274	Branco	manual	4.0	36490.0	0.0
+1081	Renault Kwid 1.0 Zen 	2020	25.249	Branco	manual	4.0	36490.0	0.0
+1082	Renault Kwid 1.0 Zen 	2020	36.232	Branco	manual	4.0	36490.0	0.0
+1083	Renault Kwid 1.0 Zen 	2020	28.27	Branco	manual	4.0	36500.0	0.0
+1084	Chevrolet Onix 1.0 Joy SPE/4 	2019	200.0	Preto	manual	4.0	30392.0	0.0
+1085	Renault Kwid 1.0 Zen 	2020	32.466	Branco	manual	4.0	36890.0	0.0
+1086	Renault Kwid 1.0 Zen 	2020	33.78	Laranja	manual	4.0	36890.0	0.0
+1087	Renault Kwid 1.0 Zen 	2020	10.55	Vermelho	manual	5.0	36900.0	0.0
+1088	Renault Kwid 1.0 Zen 	2020	20.0	Branco	manual	5.0	36900.0	0.0
+1089	Renault Kwid 1.0 Zen 	2020	9.0	Prata	manual	4.0	36900.0	0.0
+1090	Renault Kwid 1.0 Zen 	2020	4.6	Branco	manual	5.0	36900.0	0.0
+1091	Renault Kwid 1.0 Zen 	2020	29.26	Branco	manual		35900.0	0.0
+1092	Renault Kwid 1.0 Zen 	2020	18.572	Preto	manual	4.0	36950.0	0.0
+1093	Chevrolet Onix 1.0 Joy SPE/4 	2019	200.0	Prata	manual	4.0	30890.0	0.0
+1094	Renault Kwid 1.0 Zen 	2020	24.41	Branco	manual	5.0	36990.0	0.0
+1095	Renault Kwid 1.0 Zen 	2020	21.0	Laranja	manual	5.0	36990.0	0.0
+1096	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual	5.0	36990.0	0.0
+1097	Renault Kwid 1.0 Zen 	2020	38.831	Vermelho	manual	4.0	36990.0	0.0
+1098	Chevrolet Onix 1.0 Joy SPE/4 	2019	1.111	Branco	manual	4.0	30900.0	0.0
+1099	Renault Kwid 1.0 Zen 	2020	14.052	Preto	manual	4.0	36990.0	0.0
+1100	Renault Kwid 1.0 Zen 	2020	19.588	Branco	manual	4.0	36990.0	0.0
+1101	Renault Kwid 1.0 Zen 	2020	53.0	Branco	manual	3.0	37900.0	0.0
+1102	Renault Kwid 1.0 Intense 	2020	42.0	Branco	manual	4.0	37900.0	0.0
+1103	Renault Kwid 1.0 Zen 	2020	25.9	Branco	manual		37990.0	0.0
+1104	Renault Kwid 1.0 Zen 	2020	34.0	Branco	manual	4.0	37990.0	0.0
+1105	Renault Kwid 1.0 Intense 	2020	0.0	Branco	manual	5.0	37990.0	0.0
+1106	Renault Kwid 1.0 Zen 	2020	9.24	Branco	manual	4.0	37990.0	0.0
+1107	Renault Kwid 1.0 Zen 	2020	101.0	Prata	manual		37990.0	0.0
+1108	Renault Kwid 1.0 Zen 	2020	102.0	Bege	manual		37990.0	0.0
+1109	Renault Kwid 1.0 Zen 	2020	17.16	Laranja	manual	4.0	38890.0	0.0
+1110	Chevrolet Onix 1.0 LT SPE/4 	2019	38.0	Prata	manual	4.0	31292.0	0.0
+1111	Renault Kwid 1.0 Zen 	2020	28.568	Branco	manual	4.0	38900.0	0.0
+1112	Renault Kwid 1.0 Zen 	2020	17.0	Branco	manual	4.0	38900.0	0.0
+1113	Renault Kwid 1.0 Intense 	2020	0.0	Várias cores	manual	5.0	38900.0	0.0
+1114	Renault Kwid 1.0 Zen 	2020	21.554	Branco	manual	4.0	38900.0	0.0
+1115	Renault Kwid 1.0 Zen 	2020	6.0	Prata	manual	5.0	38900.0	0.0
+1116	Renault Kwid 1.0 Zen 	2020	32.467	Laranja	manual		38990.0	0.0
+1117	Renault Kwid 1.0 Zen 	2020	0.0	Bronze	manual	5.0	38990.0	0.0
+1118	Renault Kwid 1.0 Zen 	2020	999.0	Branco	manual		39600.0	0.0
+1119	Renault Kwid 1.0 Zen 	2020	999.0	Branco	manual		39600.0	0.0
+1120	Renault Kwid 1.0 Zen 	2020	31.634	Branco	manual	4.0	39900.0	0.0
+1121	Renault Kwid 1.0 Zen 	2020	17.97	Branco	manual	5.0	39900.0	0.0
+1122	Renault Kwid 1.0 Outsider 	2020	26.795	Branco	manual	4.0	38989.0	0.0
+1123	Renault Kwid 1.0 Zen 	2020	0.0	Preto	manual	4.0	39990.0	0.0
+1124	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual		39990.0	0.0
+1125	Renault Kwid 1.0 Zen 	2020	2.895	Branco	manual	4.0	39990.0	0.0
+1126	Renault Kwid 1.0 Zen 	2020	39.0	Branco	manual	4.0	39990.0	0.0
+1127	Renault Kwid 1.0 Zen 	2020	0.0	Preto	manual	5.0	39990.0	0.0
+1128	Renault Kwid 1.0 Zen 	2020	0.0	Várias cores	manual	4.0	39990.0	0.0
+1129	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual	4.0	39990.0	0.0
+1130	Renault Kwid 1.0 Zen 	2020	0.0	Várias cores	manual	5.0	39990.0	0.0
+1131	Renault Kwid 1.0 Intense 	2020	6.0	Laranja	manual	4.0	39990.0	0.0
+1132	Renault Kwid 1.0 Zen 	2020	1.0	Bege	manual	4.0	39990.0	0.0
+1133	Renault Kwid 1.0 Intense 	2020	7.5	Vermelho	manual	4.0	40300.0	0.0
+1134	Renault Kwid 1.0 Outsider 	2020	19.0	Branco	manual	4.0	40590.0	0.0
+1135	Renault Kwid 1.0 Outsider 	2020	13.0	Laranja	manual	5.0	40990.0	0.0
+1136	Renault Kwid 1.0 Outsider 	2020	435.0	Branco	manual	4.0	41000.0	0.0
+1137	Renault Kwid 1.0 Outsider 	2020	22.0	Branco	manual	4.0	41000.0	0.0
+1138	Renault Kwid 1.0 Zen 	2020	0.0	Bege	manual	5.0	41900.0	0.0
+1139	Renault Kwid 1.0 Zen 	2020	0.0	Branco	manual	5.0	42990.0	0.0
+1140	Renault Kwid 1.0 Outsider 	2020	4.578	Prata	manual	5.0	41990.0	0.0
+1141	Renault Kwid 1.0 Intense 	2020	0.0	Branco	manual	5.0	42500.0	0.0
+1142	Chevrolet Onix 1.0 	2020	41.483	Prata	manual	4.0	42500.0	1.0
+1143	Renault Kwid 1.0 Intense 	2020	0.0	Várias cores	manual	4.0	42890.0	0.0
+1144	Renault Kwid 1.0 Outsider 	2020	270.0	Branco	manual	4.0	44990.0	0.0
+1145	Renault Kwid 1.0 Outsider 	2020	0.0	Branco	manual	4.0	45000.0	0.0
+1146	Renault Kwid 1.0 Outsider 	2020	0.0	Várias cores	manual	4.0	45390.0	0.0
+1147	Renault Kwid 1.0 Outsider 	2020	1.18	Branco	manual	4.0	45900.0	0.0
+1148	Renault Kwid 1.0 Outsider 	2020	0.0	Preto	manual	4.0	45990.0	0.0
+1149	Chevrolet Onix 1.0 Joy SPE/4 	2019	38.132	Branco	manual	4.0	39990.0	0.0
+1150	Renault Kwid Life 1.0 12v SCe 	2019	97.624	Branco	manual	4.0	26890.0	1.0
+1151	Renault Kwid Zen 1.0 12v SCe 	2019	200.0	Branco	manual	4.0	28425.0	1.0
+1152	Renault Kwid Life 1.0 12v SCe 	2019	15.097	Preto	manual	4.0	28900.0	1.0
+1153	Renault Kwid Life 1.0 12v SCe 	2019	85.961	Preto	manual	4.0	29500.0	1.0
+1154	Renault Kwid Life 1.0 12v SCe 	2019	19.0	Branco	manual	4.0	27900.0	1.0
+1155	Renault Kwid Intense 1.0 12v SCe 	2019	12.736	Branco	manual	4.0	29900.0	1.0
+1156	Chevrolet Onix 1.0 Joy SPE/4 	2019	21.859	Branco	manual	4.0	39990.0	0.0
+1157	Chevrolet Onix 1.0 LT SPE/4 	2019	0.0	Branco	manual	4.0	41900.0	0.0
+1158	Chevrolet Onix 1.0 LT SPE/4 	2019	38.2	Cinza	manual	4.0	41900.0	0.0
+1159	Chevrolet Onix 1.0 LT SPE/4 	2019	58.0	Preto	manual	4.0	41900.0	0.0
+1160	Chevrolet Onix 1.0 LT SPE/4 	2019	42.0	Cinza	manual	4.0	41990.0	0.0
+1161	Chevrolet Onix 1.0 Joy SPE/4 	2019	27.0	Cinza	manual	4.0	41990.0	0.0
+1162	Chevrolet Onix 1.0 LT SPE/4 	2019	49.397	Cinza	manual	4.0	42900.0	0.0
+1163	Chevrolet Onix 1.0 LT SPE/4 	2019	12.292	Cinza	manual	4.0	44990.0	0.0
+1164	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Várias cores	manual	5.0	42599.0	0.0
+1165	Chevrolet Onix 1.0 Joy SPE/4 	2018	50.0	Branco	manual	4.0	28900.0	0.0
+1166	Chevrolet Onix 1.0 Joy SPE/4 	2018	49.521	Preto	manual	5.0	34900.0	0.0
+1167	Chevrolet Onix 1.0 Joy SPE/4 	2018	47.0	Preto	manual		34900.0	0.0
+1168	Chevrolet Onix 1.0 Joy SPE/4 	2018	38.55	Prata	manual	4.0	34999.0	0.0
+1169	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Várias cores	manual		42690.0	0.0
+1170	Chevrolet Onix 1.0 Joy SPE/4 	2018	16.35	Branco	manual	3.0	35900.0	0.0
+1171	Chevrolet Onix 1.0 Joy SPE/4 	2018	37.7	Branco	manual	5.0	36900.0	0.0
+1172	Chevrolet Onix 1.0 Joy SPE/4 	2018	32.0	Branco	manual	5.0	36900.0	0.0
+1173	Chevrolet Onix 1.0 LT SPE/4 	2018	60.07	Branco	manual	4.0	36900.0	0.0
+1174	Chevrolet Onix 1.0 Joy SPE/4 	2018	42.0	Prata	manual	5.0	36900.0	0.0
+1175	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Prata	manual		42899.0	0.0
+1176	Chevrolet Onix 1.0 Joy SPE/4 	2018	111.111	Preto	manual	4.0	36990.0	0.0
+1177	Chevrolet Onix 1.0 Joy SPE/4 	2018	45.0	Prata	manual	5.0	37900.0	0.0
+1178	Chevrolet Onix 1.0 Joy SPE/4 	2018	53.0	Prata	manual	4.0	37900.0	0.0
+1179	Chevrolet Onix 1.0 Joy SPE/4 	2018	999.0	Prata	manual	4.0	37990.0	0.0
+1180	Chevrolet Onix 1.0 LT SPE/4 	2018	1.0	Cinza	manual	4.0	37990.0	0.0
+1181	Chevrolet Onix 1.0 Joy SPE/4 	2018	22.113000000000003	Branco	manual	4.0	38000.0	0.0
+1182	Chevrolet Onix 1.0 	2020	0.0	Várias cores	manual	4.0	37995.0	1.0
+1183	Chevrolet Onix 1.0 	2020	40.094	Prata	manual	4.0	42900.0	1.0
+1184	Chevrolet Onix 1.0 LT SPE/4 	2018	59.0	Branco	manual	4.0	40500.0	0.0
+1185	Chevrolet Onix 1.4 LT SPE/4 	2018	41.0	Preto	manual	4.0	40900.0	0.0
+1186	Chevrolet Onix 1.0 LT SPE/4 	2018	49.5	Branco	manual	4.0	40900.0	0.0
+1187	Chevrolet Onix 1.4 LT SPE/4 	2018	38.659	Preto	manual	4.0	43990.0	0.0
+1188	Chevrolet Onix 1.4 LT SPE/4 	2018	49.554	Azul	automático	4.0	46000.0	0.0
+1189	Chevrolet Onix 1.4 LTZ SPE/4 	2018	33.4	Branco	automático	4.0	49000.0	0.0
+1190	Chevrolet Onix 1.4 LTZ SPE/4 	2018	80.59100000000002	Preto	manual	4.0	49900.0	0.0
+1191	Chevrolet Onix 1.4 Activ SPE/4 	2018	74.0	Branco	automático	4.0	51000.0	0.0
+1192	Chevrolet Onix 1.4 LTZ SPE/4 	2018	37.169	Preto	manual	4.0	52800.0	0.0
+1193	Chevrolet Onix 1.0 Joy SPE/4 	2017	30.0	Prata	manual	4.0	31900.0	0.0
+1194	Chevrolet Onix 1.0 Joy SPE/4 	2017	62.98	Vermelho	manual	4.0	33900.0	0.0
+1195	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Preto	manual		43854.0	0.0
+1196	Chevrolet Onix 1.0 Joy SPE/4 	2017	101.987	Prata	manual	4.0	33900.0	0.0
+1197	Chevrolet Onix 1.0 LT SPE/4 	2017	82.0	Branco	manual	4.0	35990.0	0.0
+1198	Chevrolet Onix 1.0 Joy SPE/4 	2017	39.999	Preto	manual	5.0	35999.0	0.0
+1199	Chevrolet Onix 1.0 LT SPE/4 	2017	45.0	Preto	manual	4.0	36900.0	0.0
+1200	Chevrolet Onix 1.0 Joy SPE/4 	2017	56.0	Branco	manual	4.0	36900.0	0.0
+1201	Chevrolet Onix 1.0 Joy SPE/4 	2017	68.994	Vermelho	manual	5.0	36999.0	0.0
+1202	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual		45750.0	1.0
+1203	Chevrolet Onix 1.4 LT SPE/4 	2017	30.0	Preto	automático	4.0	43900.0	0.0
+1204	Chevrolet Onix 1.4 LTZ SPE/4 	2017	55.0	Branco	manual	4.0	47300.0	0.0
+1205	Chevrolet Onix 1.4 Activ SPE/4 	2017	50.0	Branco	automático	4.0	49900.0	0.0
+1206	Chevrolet Onix 1.4 Activ SPE/4 	2017	25.0	Branco	automático	5.0	55000.0	0.0
+1207	Chevrolet Onix 1.0 LS SPE/4 	2016	999.999	Branco	manual	4.0	33990.0	0.0
+1208	Chevrolet Onix 1.0 LT SPE/4 	2016	48.301	Vermelho	manual	5.0	34900.0	0.0
+1209	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Várias cores	automático		45900.0	0.0
+1210	Chevrolet Onix 1.0 LS SPE/4 	2016	76.0	Branco	manual	4.0	35900.0	0.0
+1211	Chevrolet Onix 1.0 LT SPE/4 	2015	83.0	Azul	manual	5.0	31990.0	0.0
+1212	Chevrolet Onix 1.0 LS SPE/4 	2015	51.2	Cinza	manual	4.0	32990.0	0.0
+1213	Chevrolet Onix 1.0 LS SPE/4 	2015	39.0	Preto	manual	4.0	35890.0	0.0
+1214	Chevrolet Onix 1.0 LT SPE/4 	2015	86.777	Preto	manual	4.0	33900.0	0.0
+1215	Chevrolet Onix 1.4 LT SPE/4 	2015	86.0	Vermelho	manual	5.0	33900.0	0.0
+1216	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Branco	automático		47900.0	0.0
+1217	Chevrolet Onix 1.0 LT SPE/4 	2015	58.2	Prata	manual	4.0	33900.0	0.0
+1218	Chevrolet Onix 1.0 LT SPE/4 	2015	42.0	Branco	manual		34900.0	0.0
+1219	Chevrolet Onix 1.0 LT SPE/4 	2015	70.0	Preto	manual	4.0	34900.0	0.0
+1220	Chevrolet Onix 1.4 LT SPE/4 	2015	100.5	Branco	manual	5.0	32900.0	0.0
+1221	Chevrolet Onix 1.0 LS SPE/4 	2015	36.25	Vermelho	manual	5.0	35000.0	0.0
+1222	Chevrolet Onix 1.0 LT SPE/4 	2015	146.0	Branco	manual	5.0	36490.0	0.0
+1223	Chevrolet Onix 1.4 LT SPE/4 	2015	100.0	Prata	manual	4.0	36900.0	0.0
+1224	Chevrolet Onix 1.4 LTZ SPE/4 	2015	106.0	Vermelho	manual	5.0	36900.0	0.0
+1225	Chevrolet Onix 1.0 LT SPE/4 	2014	200.0	Branco	manual	4.0	26900.0	0.0
+1226	Chevrolet Onix 1.0 	2020	0.0	Branco	manual		47990.0	1.0
+1227	Chevrolet Onix 1.4 LTZ SPE/4 	2014	0.0	Azul	manual	4.0	31900.0	0.0
+1228	Chevrolet Onix 1.0 LT SPE/4 	2014	54.0	Vermelho	manual	5.0	33900.0	0.0
+1229	Chevrolet Onix 1.4 LT SPE/4 	2014	31.0	Vermelho	manual	4.0	33900.0	0.0
+1230	Chevrolet Onix 1.4 LTZ SPE/4 	2014	60.0	Cinza	manual	4.0	34900.0	0.0
+1231	Chevrolet Onix 1.4 LT SPE/4 	2014	152.5	Vermelho	manual	5.0	34900.0	0.0
+1232	Chevrolet Onix 1.4 LT SPE/4 	2014	67.293	Preto	manual	4.0	35900.0	0.0
+1233	Chevrolet Onix 1.4 LTZ SPE/4 	2014	80.493	Vermelho	automático	4.0	37900.0	0.0
+1234	Chevrolet Onix 1.0 LT SPE/4 	2013	60.0	Branco	manual	4.0	24900.0	0.0
+1235	Chevrolet Onix 1.4 LTZ SPE/4 	2013	60.0	Branco	manual	4.0	35900.0	0.0
+1236	Chevrolet Onix 1.4 LT SPE/4 	2013	74.0	Prata	manual	5.0	36990.0	0.0
+1237	Chevrolet Onix 1.4 LT SPE/4 	2013	80.0	Vermelho	manual	4.0	33800.0	0.0
+1238	Chevrolet Onix 1.0 	2020	0.0	Várias cores	manual	4.0	38900.0	1.0
+1239	Chevrolet Onix 1.0 	2020	0.0	Branco	manual	5.0	48990.0	1.0
+1240	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	5.0	40272.0	1.0
+1241	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	4.0	40273.0	1.0
+1242	Chevrolet Onix 1.0 LT 	2020	0.0	Prata	manual		40273.0	1.0
+1243	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	4.0	40273.0	1.0
+1244	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	4.0	40273.0	1.0
+1245	Chevrolet Onix 1.0 LT 	2020	0.0	Vinho	manual		51990.0	1.0
+1246	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	5.0	40272.0	1.0
+1247	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	4.0	40272.0	1.0
+1248	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	5.0	49599.0	1.0
+1249	Fiat Argo 1.0 Drive 	2020	20.0	Branco	manual	4.0	46990.0	0.0
+1250	Fiat Argo 1.0 Drive 	2020	22.0	Prata	manual	4.0	47700.0	0.0
+1251	Fiat Argo 1.3 Trekking 	2020	20.0	Vermelho	manual	4.0	64900.0	0.0
+1252	Fiat Argo Drive 1.0 Firefly 	2019	28.489	Vermelho	manual	4.0	32566.0	1.0
+1253	Fiat Argo Drive 1.0 Firefly 	2019	200.0	Prata	manual	4.0	36720.0	1.0
+1254	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Várias cores	automático	5.0	49990.0	0.0
+1255	Fiat Argo Drive 1.0 Firefly 	2019	29.0	Branco	manual	5.0	40890.0	1.0
+1256	Fiat Argo Drive 1.0 Firefly 	2019	49.0	Preto	manual	5.0	40900.0	1.0
+1257	Fiat Argo 1.0 Firefly 	2019	40.0	Cinza	manual	4.0	42990.0	1.0
+1258	Fiat Argo Drive 1.0 Firefly 	2019	32.0	Prata	manual		43990.0	1.0
+1259	Fiat Argo Drive 1.0 Firefly 	2019	22.0	Branco	manual	4.0	44900.0	1.0
+1260	Fiat Argo Drive 1.0 Firefly 	2019	40.0	Branco	manual	5.0	45995.0	1.0
+1261	Fiat Argo 1.0 Firefly 	2018	200.0	Preto	manual	4.0	34841.0	1.0
+1262	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	50960.0	1.0
+1263	Fiat Argo 1.0 Drive 	2020	24.0	Branco	manual	4.0	45990.0	0.0
+1264	Fiat Argo 1.0 	2020	18.137	Branco	manual	4.0	45990.0	0.0
+1265	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	45990.0	0.0
+1266	Fiat Argo 1.0 Drive 	2020	19.8	Preto	manual	4.0	45990.0	0.0
+1267	Fiat Argo 1.0 Drive 	2020	29.095	Branco	manual	4.0	46100.0	0.0
+1268	Fiat Argo 1.0 Drive 	2020	21.352	Branco	manual	4.0	46100.0	0.0
+1269	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	50970.0	1.0
+1270	Fiat Argo 1.0 Drive 	2020	26.139	Branco	manual	4.0	46100.0	0.0
+1271	Fiat Argo 1.0 Drive 	2020	24.081	Branco	manual	4.0	46100.0	0.0
+1272	Fiat Argo 1.0 Drive 	2020	25.654	Branco	manual	4.0	46100.0	0.0
+1273	Fiat Argo 1.0 Drive 	2020	15.867	Branco	manual	4.0	46150.0	0.0
+1274	Fiat Argo 1.0 Drive 	2020	45.852	Prata	manual	4.0	46300.0	0.0
+1275	Fiat Argo 1.0 Drive 	2020	13.656	Prata	manual	4.0	46390.0	0.0
+1276	Fiat Argo 1.0 Drive 	2020	12.2	Branco	manual	4.0	46390.0	0.0
+1277	Fiat Argo 1.0 Drive 	2020	15.039	Branco	manual	4.0	46500.0	0.0
+1278	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	50980.0	1.0
+1279	Fiat Argo 1.0 Drive 	2020	34.267	Branco	manual	4.0	46500.0	0.0
+1280	Fiat Argo 1.0 Drive 	2020	39.677	Branco	manual	4.0	46500.0	0.0
+1281	Fiat Argo 1.0 Drive 	2020	40.084	Branco	manual	4.0	46530.0	0.0
+1282	Fiat Argo 1.0 Drive 	2020	53.151	Cinza	manual	4.0	46530.0	0.0
+1283	Fiat Argo 1.0 Drive 	2020	25.238000000000003	Branco	manual	4.0	46590.0	0.0
+1284	Fiat Argo 1.0 Drive 	2020	29.733	Branco	manual	4.0	46730.0	0.0
+1285	Fiat Argo 1.0 Drive 	2020	26.28	Branco	manual	4.0	46780.0	0.0
+1286	Fiat Argo 1.0 Drive 	2020	27.612	Branco	manual	4.0	46780.0	0.0
+1287	Fiat Argo 1.0 Drive 	2020	27.696	Branco	manual	4.0	46780.0	0.0
+1288	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	4.0	50990.0	1.0
+1289	Fiat Argo 1.0 Drive 	2020	40.0	Prata	manual	5.0	46800.0	0.0
+1290	Fiat Argo 1.0 Drive 	2020	40.0	Branco	manual	5.0	46800.0	0.0
+1291	Fiat Argo 1.0 Drive 	2020	9.898	Branco	manual	5.0	46800.0	0.0
+1292	Fiat Argo 1.0 Drive 	2020	24.769	Branco	manual	4.0	46870.0	0.0
+1293	Fiat Argo 1.0 Drive 	2020	24.806	Branco	manual	4.0	46870.0	0.0
+1294	Fiat Argo 1.0 Drive 	2020	25.0	Branco	manual	4.0	46890.0	0.0
+1295	Fiat Argo 1.0 Drive 	2020	24.0	Branco	manual	4.0	46890.0	0.0
+1296	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual		52880.0	1.0
+1297	Fiat Argo 1.0 Drive 	2020	49.235	Cinza	manual	4.0	46890.0	0.0
+1298	Chevrolet Onix 1.0 LT 	2020	0.0	Laranja	manual	4.0	52990.0	1.0
+1299	Fiat Argo 1.0 Drive 	2020	40.104	Branco	manual	4.0	46900.0	0.0
+1300	Fiat Argo 1.0 Drive 	2020	41.05	Branco	manual	4.0	46900.0	0.0
+1301	Fiat Argo 1.0 Drive 	2020	39.729	Branco	manual	4.0	46900.0	0.0
+1302	Fiat Argo 1.0 Drive 	2020	13.771	Branco	manual	4.0	46900.0	0.0
+1303	Fiat Argo 1.0 Drive 	2020	13.98	Branco	manual	4.0	46900.0	0.0
+1304	Fiat Argo 1.0 Drive 	2020	28.972	Branco	manual	4.0	46900.0	0.0
+1305	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	5.0	53870.0	1.0
+1306	Fiat Argo 1.0 Drive 	2020	43.19600000000001	Branco	manual	5.0	46900.0	0.0
+1307	Fiat Argo 1.0 Drive 	2020	31.853	Branco	manual	4.0	46900.0	0.0
+1308	Fiat Argo 1.0 Drive 	2020	21.643	Branco	manual	4.0	46900.0	0.0
+1309	Fiat Argo 1.0 Drive 	2020	32.013000000000005	Branco	manual	4.0	46900.0	0.0
+1310	Fiat Argo 1.0 Drive 	2020	48.233	Prata	manual		46900.0	0.0
+1311	Fiat Argo 1.0 Drive 	2020	35.982	Preto	manual		46900.0	0.0
+1312	Fiat Argo 1.0 Drive 	2020	41.64	Cinza	manual		46900.0	0.0
+1313	Fiat Argo 1.0 Drive 	2020	48.036	Prata	manual		46900.0	0.0
+1314	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	53950.0	1.0
+1315	Fiat Argo 1.0 Drive 	2020	22.587	Branco	manual	4.0	46900.0	0.0
+1316	Fiat Argo 1.0 Drive 	2020	99.999	Branco	manual	4.0	46913.0	0.0
+1317	Fiat Argo 1.0 Drive 	2020	22.434	Branco	manual	4.0	46970.0	0.0
+1318	Fiat Argo 1.0 Drive 	2020	22.242	Branco	manual	4.0	46970.0	0.0
+1319	Fiat Argo 1.0 Drive 	2020	11.0	Branco	manual	4.0	46973.0	0.0
+1320	Fiat Argo 1.0 Drive 	2020	22.01	Preto	manual	5.0	46990.0	0.0
+1321	Fiat Argo 1.0 Drive 	2020	9.26	Branco	manual	4.0	46990.0	0.0
+1322	Fiat Argo 1.0 Drive 	2020	40.58	Preto	manual	4.0	46990.0	0.0
+1323	Chevrolet Onix 1.0 	2020	41.0	Cinza	manual	4.0	42900.0	1.0
+1324	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	53960.0	1.0
+1325	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	5.0	46990.0	0.0
+1326	Fiat Argo 1.0 Drive 	2020	49.784	Branco	manual	4.0	46990.0	0.0
+1327	Fiat Argo 1.0 Drive 	2020	44.629	Branco	manual	4.0	46990.0	0.0
+1328	Fiat Argo 1.0 Drive 	2020	43.0	Preto	manual	4.0	46990.0	0.0
+1329	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	46990.0	0.0
+1330	Fiat Argo 1.0 Drive 	2020	21.447	Branco	manual	4.0	47010.0	0.0
+1331	Fiat Argo 1.0 Drive 	2020	20.682	Branco	manual	4.0	47010.0	0.0
+1332	Fiat Argo 1.0 Drive 	2020	32.863	Branco	manual	4.0	47050.0	0.0
+1333	Fiat Argo 1.0 Drive 	2020	31.976	Branco	manual	4.0	47090.0	0.0
+1334	Fiat Argo 1.0 Drive 	2020	17.938	Branco	manual	4.0	47100.0	0.0
+1335	Fiat Argo 1.0 Drive 	2020	17.340999999999998	Branco	manual	4.0	47100.0	0.0
+1336	Fiat Argo 1.0 Drive 	2020	45.02	Branco	manual	4.0	47250.0	0.0
+1337	Fiat Argo 1.0 Drive 	2020	26.699	Branco	manual	4.0	47280.0	0.0
+1338	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	5.0	47349.0	0.0
+1339	Fiat Argo 1.0 Drive 	2020	42.3	Branco	manual	4.0	47370.0	0.0
+1340	Fiat Argo 1.0 Drive 	2020	42.591	Branco	manual	4.0	47370.0	0.0
+1341	Fiat Argo 1.0 Drive 	2020	42.56800000000001	Prata	manual	4.0	47370.0	0.0
+1342	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	53970.0	1.0
+1343	Fiat Argo 1.0 Drive 	2020	25.267	Branco	manual	4.0	47380.0	0.0
+1344	Fiat Argo 1.0 Drive 	2020	25.242	Branco	manual	4.0	47380.0	0.0
+1345	Fiat Argo 1.0 Drive 	2020	22.213	Branco	manual	4.0	47470.0	0.0
+1346	Fiat Argo 1.0 Drive 	2020	40.08	Branco	manual	4.0	47490.0	0.0
+1347	Fiat Argo 1.0 Drive 	2020	41.595	Branco	manual	4.0	47490.0	0.0
+1348	Fiat Argo 1.0 Drive 	2020	40.104	Branco	manual	4.0	47490.0	0.0
+1349	Fiat Argo 1.0 Drive 	2020	41.05	Branco	manual	4.0	47490.0	0.0
+1350	Fiat Argo 1.0 Drive 	2020	41.83	Branco	manual	4.0	47490.0	0.0
+1351	Fiat Argo 1.0 Drive 	2020	41.006	Prata	manual	4.0	47490.0	0.0
+1352	Fiat Argo 1.0 Drive 	2020	41.22	Branco	manual	4.0	47490.0	0.0
+1353	Fiat Argo 1.0 Drive 	2020	41.018	Prata	manual	4.0	47490.0	0.0
+1354	Fiat Argo 1.0 Drive 	2020	21.858	Branco	manual	4.0	47520.0	0.0
+1355	Fiat Argo 1.0 Drive 	2020	20.417	Branco	manual	4.0	47520.0	0.0
+1356	Fiat Argo 1.0 Drive 	2020	20.792	Branco	manual	4.0	47520.0	0.0
+1357	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	53980.0	1.0
+1358	Fiat Argo 1.0 Drive 	2020	47.344	Branco	manual	3.0	47560.0	0.0
+1359	Fiat Argo 1.0 Drive 	2020	19.518	Branco	manual	4.0	47560.0	0.0
+1360	Fiat Argo 1.0 Drive 	2020	25.208	Cinza	manual	3.0	47590.0	0.0
+1361	Fiat Argo 1.0 Drive 	2020	17.803	Branco	manual	4.0	47610.0	0.0
+1362	Fiat Argo 1.0 Drive 	2020	17.574	Branco	manual	4.0	47610.0	0.0
+1363	Fiat Argo 1.0 Drive 	2020	16.503	Branco	manual	4.0	47610.0	0.0
+1364	Fiat Argo 1.0 Drive 	2020	11.342	Branco	manual	3.0	47750.0	0.0
+1365	Fiat Argo 1.0 Drive 	2020	40.24800000000001	Branco	manual		47800.0	0.0
+1366	Fiat Argo 1.0 Drive 	2020	35.013000000000005	Branco	manual	4.0	47850.0	0.0
+1367	Fiat Argo 1.0 Drive 	2020	333.0	Branco	manual	4.0	47900.0	0.0
+1368	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual	5.0	53990.0	1.0
+1369	Fiat Argo 1.0 Drive 	2020	33.356	Branco	manual	4.0	47900.0	0.0
+1370	Fiat Argo 1.0 	2020	30.755	Branco	manual	4.0	47900.0	0.0
+1371	Fiat Argo 1.0 Drive 	2020	45.931	Branco	manual		47900.0	0.0
+1372	Fiat Argo 1.0 Drive 	2020	44.457	Prata	manual		47900.0	0.0
+1373	Fiat Argo 1.0 Drive 	2020	44.83	Prata	manual		47900.0	0.0
+1374	Fiat Argo 1.0 Drive 	2020	1.7	Preto	manual	5.0	47900.0	0.0
+1375	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	4.0	47970.0	0.0
+1376	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	53990.0	1.0
+1377	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	47990.0	0.0
+1378	Fiat Argo 1.0 Drive 	2020	39.729	Branco	manual	4.0	47990.0	0.0
+1379	Fiat Argo 1.0 Drive 	2020	40.303	Prata	manual	4.0	47990.0	0.0
+1380	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	47990.0	0.0
+1381	Fiat Argo 1.0 	2020	0.0	Não informada.	manual		47990.0	0.0
+1382	Fiat Argo Drive 1.3 Firefly 	2020	17.0	Preto	manual	4.0	48000.0	1.0
+1383	Fiat Argo 1.0 Drive 	2020	40.962	Branco	manual	4.0	48060.0	0.0
+1384	Fiat Argo 1.0 Drive 	2020	40.91	Branco	manual	4.0	48060.0	0.0
+1385	Fiat Argo 1.0 Drive 	2020	29.528	Branco	manual	4.0	48140.0	0.0
+1386	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	5.0	48445.0	0.0
+1387	Fiat Argo 1.0 Drive 	2020	33.556	Branco	manual	4.0	48450.0	0.0
+1388	Fiat Argo 1.0 Drive 	2020	33.906	Prata	manual	4.0	48450.0	0.0
+1389	Fiat Argo 1.0 Drive 	2020	17.753	Branco	manual	4.0	48520.0	0.0
+1390	Fiat Argo 1.3 Trekking 	2020	0.0	Preto	manual	4.0	48542.0	0.0
+1391	Fiat Argo 1.3 Trekking 	2020	0.0	Branco	manual	4.0	48542.0	0.0
+1392	Fiat Argo 1.0 Drive 	2020	28.423	Branco	manual	4.0	48640.0	0.0
+1393	Chevrolet Onix 1.0 	2020	3.0	Preto	manual	5.0	54900.0	1.0
+1394	Fiat Argo 1.0 Drive 	2020	0.0	Várias cores	manual		49900.0	0.0
+1395	Fiat Argo 1.0 Drive 	2020	19.549	Branco	manual	5.0	48900.0	0.0
+1396	Fiat Argo 1.0 Drive 	2020	18.574	Branco	manual	4.0	48900.0	0.0
+1397	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual		48990.0	0.0
+1398	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual		48990.0	0.0
+1399	Fiat Argo 1.0 Drive 	2020	15.098	Prata	manual	5.0	48990.0	0.0
+1400	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual		48990.0	0.0
+1401	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual		48990.0	0.0
+1402	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	48990.0	0.0
+1403	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	48990.0	0.0
+1404	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	5.0	49970.0	1.0
+1405	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	54950.0	1.0
+1406	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual		48990.0	0.0
+1407	Fiat Argo 1.0 Drive 	2020	11.985	Preto	manual	4.0	48990.0	0.0
+1408	Fiat Argo 1.0 Drive 	2020	0.0	Vermelho	manual	5.0	48990.0	0.0
+1409	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual		48990.0	0.0
+1410	Fiat Argo 1.0 Drive 	2020	3.647	Cinza	manual	4.0	49000.0	0.0
+1411	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	49558.0	0.0
+1412	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	49558.0	0.0
+1413	Fiat Argo 1.0 	2020	0.0	Prata	manual	4.0	49751.0	0.0
+1414	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	49751.0	0.0
+1415	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	54960.0	1.0
+1416	Fiat Argo 1.0 Drive 	2020	6.957999999999998	Branco	manual	4.0	49900.0	0.0
+1417	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	49900.0	0.0
+1418	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	49990.0	0.0
+1419	Fiat Argo 1.0 	2020	0.0	Branco	manual	4.0	49990.0	0.0
+1420	Fiat Argo 1.0 Drive 	2020	35.0	Branco	manual	4.0	49990.0	0.0
+1421	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	4.0	49990.0	0.0
+1422	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	5.0	49990.0	0.0
+1423	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	54970.0	1.0
+1424	Fiat Argo 1.0 Firefly 	2018	58.235	Branco	manual		37990.0	1.0
+1425	Fiat Argo Drive 1.0 Firefly 	2018	54.0	Vermelho	manual	4.0	39490.0	1.0
+1426	Fiat Argo Drive 1.0 Firefly 	2018	45.957	Branco	manual	4.0	43900.0	1.0
+1427	Fiat Argo Drive 1.3 Firefly 	2018	26.5	Preto	manual		45900.0	1.0
+1428	Fiat Argo Drive 1.3 Firefly 	2018	18.445	Branco	manual	4.0	47900.0	1.0
+1429	Fiat Argo Drive 1.3 Firefly GSR 	2018	10.0	Branco	automático	5.0	48000.0	1.0
+1430	Fiat Argo Drive 1.3 Firefly 	2018	44.5	Branco	manual	4.0	48800.0	1.0
+1431	Fiat Argo 1.0 Firefly 	2019	33.0	Prata	manual	4.0	41900.0	1.0
+1432	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	5.0	54980.0	1.0
+1433	Fiat Argo 1.0 	2020	0.0	Várias cores	manual	5.0	35290.0	0.0
+1434	Fiat Argo 1.0 Drive 	2020	0.0	Várias cores	manual		37999.0	0.0
+1435	Fiat Argo 1.0 Drive 	2020	0.0	Várias cores	manual		37999.0	0.0
+1436	Fiat Argo 1.0 Drive 	2020	0.0	Várias cores	manual	5.0	38000.0	0.0
+1437	Fiat Argo 1.0 Drive 	2020	36.25	Cinza	manual	4.0	41500.0	0.0
+1438	Fiat Argo 1.0 Drive 	2020	55.0	Prata	manual	4.0	42990.0	0.0
+1439	Fiat Argo 1.0 Drive 	2020	39.0	Preto	manual	5.0	43990.0	0.0
+1440	Fiat Argo 1.0 Drive 	2020	0.0	Várias cores	manual	5.0	44582.0	0.0
+1441	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual		49800.0	0.0
+1442	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	49990.0	0.0
+1443	Fiat Argo 1.0 Drive 	2020	117.0	Branco	manual	4.0	49990.0	0.0
+1444	Fiat Argo 1.0 Drive 	2020	0.0	Não informada.	manual	5.0	50380.0	0.0
+1445	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	5.0	50790.0	0.0
+1446	Fiat Argo 1.0 Drive 	2020	0.0	manual			50940.0	0.0
+1447	Fiat Argo 1.0 Drive 	2020	0.0	manual			50940.0	0.0
+1448	Fiat Argo 1.0 Drive 	2020	0.0	manual			50940.0	0.0
+1449	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	50975.0	0.0
+1450	Fiat Argo 1.0 Drive 	2020	0.0	Cinza	manual	4.0	50980.0	0.0
+1451	Fiat Argo 1.0 Drive 	2020	0.0	Vermelho	manual	4.0	50985.0	0.0
+1452	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	50990.0	0.0
+1453	Fiat Argo 1.0 Drive 	2020	0.0	Prata	manual	4.0	50990.0	0.0
+1454	Fiat Argo 1.0 Drive 	2020	0.0	Branco	manual	4.0	50990.0	0.0
+1455	Fiat Argo 1.0 Drive 	2020	0.0	Preto	manual	4.0	50990.0	0.0
+1456	Fiat Argo 1.0 Drive 	2020	0.0	Amarelo	manual	4.0	50990.0	0.0
+1457	Fiat Argo 1.0 Drive 	2020	41.2	Cinza	manual	5.0	44800.0	0.0
+1458	Fiat Argo 1.0 Drive 	2020	30.0	Prata	manual	4.0	44900.0	0.0
+1459	Fiat Argo 1.0 Drive 	2020	46.457	Branco	manual	4.0	44900.0	0.0
+1460	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	44990.0	0.0
+1461	Fiat Argo 1.0 Drive 	2020	52.768	Branco	manual	4.0	44990.0	0.0
+1462	Fiat Argo 1.0 Drive 	2020	43.807	Vermelho	manual	4.0	44990.0	0.0
+1463	Fiat Argo 1.0 Drive 	2020	44.358	Branco	manual	4.0	44990.0	0.0
+1464	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	44990.0	0.0
+1465	Fiat Argo 1.0 Drive 	2020	53.468	Branco	manual	4.0	44990.0	0.0
+1466	Fiat Argo 1.0 Drive 	2020	59.222	Branco	manual	4.0	44990.0	0.0
+1467	Chevrolet Onix 1.0 	2020	0.0	Preto	manual	4.0	54990.0	1.0
+1468	Fiat Argo 1.0 Drive 	2020	58.933	Preto	manual	4.0	44990.0	0.0
+1469	Fiat Argo 1.0 Drive 	2020	48.19	Cinza	manual	4.0	45490.0	0.0
+1470	Fiat Argo 1.0 Drive 	2020	34.371	Branco	manual	4.0	45500.0	0.0
+1471	Fiat Argo 1.0 Drive 	2020	42.244	Branco	manual	4.0	45500.0	0.0
+1472	Fiat Argo 1.0 Drive 	2020	28.551	Branco	manual	4.0	45500.0	0.0
+1473	Fiat Argo 1.0 Drive 	2020	40.268	Branco	manual	4.0	45600.0	0.0
+1474	Fiat Argo 1.0 Drive 	2020	16.578	Branco	manual	4.0	45690.0	0.0
+1475	Fiat Argo 1.0 Drive 	2020	35.423	Prata	manual	4.0	45690.0	0.0
+1476	Fiat Argo 1.0 Drive 	2020	39.534	Branco	manual	4.0	45690.0	0.0
+1477	Fiat Argo 1.0 Drive 	2020	34.947	Branco	manual	4.0	45690.0	0.0
+1478	Fiat Argo 1.0 Drive 	2020	39.199	Branco	manual	4.0	45690.0	0.0
+1479	Fiat Argo 1.0 Drive 	2020	39.791	Prata	manual	4.0	45690.0	0.0
+1480	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	5.0	56900.0	1.0
+1481	Chevrolet Onix 1.0 	2020	0.0	Branco	manual	5.0	55980.0	1.0
+1482	Fiat Argo 1.0 Drive 	2020	45.438	Branco	manual	4.0	45790.0	0.0
+1483	Fiat Argo 1.0 Drive 	2020	33.0	Prata	manual	5.0	45830.0	0.0
+1484	Fiat Argo 1.0 Drive 	2020	40.63	Cinza	manual	4.0	45890.0	0.0
+1485	Fiat Argo 1.0 Drive 	2020	42.132	Branco	manual	4.0	45900.0	0.0
+1486	Fiat Argo 1.0 Drive 	2020	47.684	Prata	manual	4.0	45900.0	0.0
+1487	Fiat Argo 1.0 Drive 	2020	41.02	Branco	manual	4.0	45900.0	0.0
+1488	Fiat Argo 1.0 Drive 	2020	49.221	Branco	manual	4.0	45900.0	0.0
+1489	Fiat Argo 1.0 Drive 	2020	59.447	Cinza	manual	4.0	45900.0	0.0
+1490	Chevrolet Onix 1.0 	2020	0.0	Branco	manual	5.0	55990.0	1.0
+1491	Fiat Argo 1.0 Drive 	2020	49.018	Prata	manual	4.0	45900.0	0.0
+1492	Fiat Argo 1.0 Drive 	2020	41.797	Prata	manual	4.0	45900.0	0.0
+1493	Fiat Argo 1.0 Drive 	2020	42.91	Prata	manual	4.0	45900.0	0.0
+1494	Fiat Argo 1.0 Drive 	2020	24.546	Branco	manual	4.0	45900.0	0.0
+1495	Fiat Argo 1.0 Drive 	2020	51.871	Branco	manual	4.0	45900.0	0.0
+1496	Fiat Argo 1.0 Drive 	2020	40.084	Branco	manual	4.0	45900.0	0.0
+1497	Fiat Argo 1.0 Drive 	2020	40.834	Branco	manual	4.0	45900.0	0.0
+1498	Fiat Argo 1.0 Drive 	2020	42.984	Cinza	manual	4.0	45900.0	0.0
+1499	Fiat Argo 1.0 Drive 	2020	49.026	Preto	manual	4.0	45900.0	0.0
+1500	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Preto	manual	5.0	56100.0	0.0
+1501	Fiat Argo 1.0 Drive 	2020	50.236	Cinza	manual	4.0	45900.0	0.0
+1502	Fiat Argo 1.0 Drive 	2020	55.245	Preto	manual	4.0	45900.0	0.0
+1503	Fiat Argo 1.0 Drive 	2020	52.29600000000001	Cinza	manual	4.0	45900.0	0.0
+1504	Fiat Argo 1.0 Drive 	2020	55.736	Branco	manual	4.0	45900.0	0.0
+1505	Fiat Argo 1.0 Drive 	2020	45.661	Branco	manual	4.0	45900.0	0.0
+1506	Fiat Argo 1.0 Drive 	2020	48.99	Branco	manual	4.0	45900.0	0.0
+1507	Fiat Argo 1.0 Drive 	2020	50.709	Branco	manual	3.0	45900.0	0.0
+1508	Fiat Argo 1.0 	2020	8.463	Branco	manual	4.0	45900.0	0.0
+1509	Fiat Argo 1.0 	2020	12.588	Branco	manual	4.0	45900.0	0.0
+1510	Fiat Argo 1.0 	2020	9.122	Branco	manual	4.0	45900.0	0.0
+1511	Fiat Argo 1.0 	2020	7.51	Branco	manual	4.0	45900.0	0.0
+1512	Fiat Argo 1.0 Drive 	2020	45.852	Prata	manual	4.0	45900.0	0.0
+1513	Fiat Argo 1.0 Drive 	2020	41.628	Cinza	manual	4.0	45900.0	0.0
+1514	Fiat Argo 1.0 Drive 	2020	42.591	Branco	manual	4.0	45900.0	0.0
+1515	Fiat Argo 1.0 Drive 	2020	41.22	Branco	manual	4.0	45900.0	0.0
+1516	Fiat Argo 1.0 Drive 	2020	27.358	Branco	manual	4.0	45900.0	0.0
+1517	Fiat Argo 1.0 Drive 	2020	45.803	Branco	manual	4.0	45900.0	0.0
+1518	Fiat Argo 1.0 Drive 	2020	27.841	Branco	manual	4.0	45900.0	0.0
+1519	Fiat Argo 1.0 Drive 	2020	24.806	Branco	manual	4.0	45900.0	0.0
+1520	Fiat Argo 1.0 Drive 	2020	40.857	Branco	manual	4.0	45900.0	0.0
+1521	Chevrolet Onix 1.0 LT 	2020	157.0	Branco	manual	4.0	56900.0	1.0
+1522	Fiat Argo 1.0 Drive 	2020	40.907	Prata	manual	4.0	45900.0	0.0
+1523	Fiat Argo 1.0 Drive 	2020	40.481	Branco	manual	4.0	45900.0	0.0
+1524	Fiat Argo 1.0 Drive 	2020	49.978	Branco	manual	4.0	45900.0	0.0
+1525	Fiat Argo 1.0 Drive 	2020	40.8	Prata	manual	4.0	45900.0	0.0
+1526	Fiat Argo 1.0 Drive 	2020	43.35	Branco	manual	4.0	45900.0	0.0
+1527	Fiat Argo 1.0 Drive 	2020	40.445	Branco	manual	4.0	45900.0	0.0
+1528	Fiat Argo 1.0 Drive 	2020	48.08	Branco	manual	4.0	45900.0	0.0
+1529	Fiat Argo 1.0 Drive 	2020	24.367	Branco	manual	4.0	45900.0	0.0
+1530	Fiat Argo 1.0 Drive 	2020	33.455	Branco	manual	4.0	45900.0	0.0
+1531	Fiat Argo 1.0 Drive 	2020	30.751	Branco	manual	4.0	45900.0	0.0
+1532	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Vermelho	manual	4.0	56900.0	0.0
+1533	Fiat Argo 1.0 Drive 	2020	29.424	Branco	manual	4.0	45900.0	0.0
+1534	Fiat Argo 1.0 Drive 	2020	45.542	Prata	manual	4.0	45900.0	0.0
+1535	Fiat Argo 1.0 Drive 	2020	48.056	Prata	manual	4.0	45900.0	0.0
+1536	Fiat Argo 1.0 Drive 	2020	39.752	Branco	manual	4.0	45900.0	0.0
+1537	Fiat Argo 1.0 Drive 	2020	40.985	Prata	manual	4.0	45900.0	0.0
+1538	Fiat Argo 1.0 Drive 	2020	40.906	Prata	manual	4.0	45900.0	0.0
+1539	Fiat Argo 1.0 Drive 	2020	40.399	Prata	manual	4.0	45900.0	0.0
+1540	Fiat Argo 1.0 Drive 	2020	44.613	Prata	manual	4.0	45900.0	0.0
+1541	Fiat Argo 1.0 Drive 	2020	46.412	Cinza	manual	4.0	45900.0	0.0
+1542	Chevrolet Onix 1.0 	2020	0.0	Cinza	manual	4.0	56990.0	1.0
+1543	Fiat Argo 1.3 Drive 	2020	41.09	Branco	manual	4.0	45900.0	0.0
+1544	Fiat Argo 1.0 Drive 	2020	40.444	Prata	manual	4.0	45900.0	0.0
+1545	Fiat Argo 1.0 Drive 	2020	44.409	Prata	manual	4.0	45900.0	0.0
+1546	Fiat Argo 1.0 Drive 	2020	47.03100000000001	Branco	manual	4.0	45900.0	0.0
+1547	Fiat Argo 1.0 Drive 	2020	41.36	Branco	manual	4.0	45900.0	0.0
+1548	Fiat Argo 1.0 Drive 	2020	41.284	Branco	manual	4.0	45900.0	0.0
+1549	Fiat Argo 1.0 Drive 	2020	40.62300000000001	Cinza	manual	4.0	45900.0	0.0
+1550	Fiat Argo 1.0 Drive 	2020	40.403	Prata	manual	4.0	45900.0	0.0
+1551	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	4.0	56990.0	1.0
+1552	Fiat Argo 1.0 	2020	45.256	Branco	manual	5.0	45900.0	0.0
+1553	Fiat Argo 1.0 Drive 	2020	42.21100000000001	Prata	manual	4.0	45900.0	0.0
+1554	Fiat Argo 1.0 Drive 	2020	40.695	Branco	manual	4.0	45900.0	0.0
+1555	Fiat Argo 1.0 Drive 	2020	45.467	Prata	manual	4.0	45900.0	0.0
+1556	Fiat Argo 1.0 Drive 	2020	42.54600000000001	Prata	manual	4.0	45900.0	0.0
+1557	Fiat Argo 1.0 Drive 	2020	43.39	Branco	manual	4.0	45900.0	0.0
+1558	Fiat Argo 1.0 Drive 	2020	47.101000000000006	Branco	manual	4.0	45900.0	0.0
+1559	Fiat Argo 1.0 Drive 	2020	41.129	Prata	manual	4.0	45900.0	0.0
+1560	Fiat Argo 1.0 Drive 	2020	40.897	Branco	manual	4.0	45900.0	0.0
+1561	Fiat Argo 1.0 Drive 	2020	41.323	Branco	manual	4.0	45900.0	0.0
+1562	Fiat Argo 1.0 Drive 	2020	51.297	Branco	manual	4.0	45900.0	0.0
+1563	Fiat Argo 1.0 Drive 	2020	40.119	Branco	manual	4.0	45900.0	0.0
+1564	Fiat Argo 1.0 Drive 	2020	45.882	Branco	manual	4.0	45900.0	0.0
+1565	Fiat Argo 1.0 Drive 	2020	41.159	Branco	manual	4.0	45900.0	0.0
+1566	Fiat Argo 1.0 Drive 	2020	53.66	Branco	manual	4.0	45900.0	0.0
+1567	Fiat Argo 1.0 Drive 	2020	40.294	Branco	manual	4.0	45900.0	0.0
+1568	Fiat Argo 1.0 Drive 	2020	22.587	Branco	manual	4.0	45900.0	0.0
+1569	Fiat Argo 1.0 Drive 	2020	23.349	Branco	manual	4.0	45900.0	0.0
+1570	Fiat Argo 1.0 Drive 	2020	27.021	Cinza	manual	4.0	45900.0	0.0
+1571	Fiat Argo 1.0 Drive 	2020	19.141	Branco	manual	5.0	45900.0	0.0
+1572	Fiat Argo 1.0 Drive 	2020	40.962	Branco	manual	4.0	45900.0	0.0
+1573	Fiat Argo 1.0 Drive 	2020	45.487	Cinza	manual	4.0	45900.0	0.0
+1574	Fiat Argo 1.3 Drive 	2020	0.0	Várias cores	manual		45950.0	0.0
+1575	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	45970.0	0.0
+1576	Fiat Argo 1.0 	2020	0.0	Preto	manual	4.0	45980.0	0.0
+1577	Fiat Argo 1.0 Drive 	2020	29.516	Branco	manual	4.0	45990.0	0.0
+1578	Chevrolet Onix 1.0 	2020	3.1	Branco	manual	4.0	67900.0	1.0
+1579	Chevrolet Onix 1.0 LT 	2020	0.0	Não informada.	manual	4.0	56990.0	1.0
+1580	Fiat Strada Cabine Plus Freedom 	2021	300.0	Preto	manual	2.0	72480.0	0.0
+1581	Fiat Strada 1.4 CS Hard Working 	2020	31.518	Vermelho	manual	2.0	49900.0	0.0
+1582	Fiat Strada 1.4 CD Hard Working 	2020	18.0	Branco	manual	3.0	65990.0	0.0
+1583	Fiat Strada 1.8 CD Adventure 	2020	4.362	Prata	manual	4.0	72990.0	0.0
+1584	Fiat Strada Hard Working 1.4 	2019	41.0	Prata	manual	2.0	45900.0	1.0
+1585	Fiat Strada Hard Working 1.4 	2019	29.0	Branco	manual	2.0	45900.0	1.0
+1586	Fiat Strada Hard Working 1.4 	2019	56.468	Branco	manual	2.0	47000.0	1.0
+1587	Fiat Strada Hard Working 1.4 	2019	29.0	Branco	manual	2.0	49900.0	1.0
+1588	Fiat Strada Freedom 1.4 	2019	18.9	Vermelho	manual	3.0	65000.0	1.0
+1589	Fiat Strada Hard Working 1.4 	2018	200.0	Branco	manual	2.0	31690.0	1.0
+1590	Chevrolet Onix 1.0 Turbo LT 	2020	2.503	Branco	manual	4.0	57500.0	0.0
+1591	Fiat Strada 1.4 CS Hard Working 	2020	38.755	Preto	manual	2.0	45980.0	0.0
+1592	Fiat Strada 1.4 CD Hard Working 	2020	44.802	Prata	manual	2.0	47290.0	0.0
+1593	Fiat Strada 1.4 CS Hard Working 	2020	40.033	Branco	manual	2.0	47990.0	0.0
+1594	Fiat Strada 1.4 CS Hard Working 	2020	42.783	Branco	manual	4.0	47990.0	0.0
+1595	Fiat Strada 1.4 CS Hard Working 	2020	57.0	Branco	manual	2.0	47990.0	0.0
+1596	Fiat Strada 1.4 CD Hard Working 	2020	51.775	Branco	manual	2.0	48900.0	0.0
+1597	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Cinza	manual		57500.0	0.0
+1598	Fiat Strada 1.4 CS Hard Working 	2020	18.31	Branco	manual	2.0	48900.0	0.0
+1599	Fiat Strada 1.4 CS Hard Working 	2020	33.0	Vermelho	manual	2.0	48900.0	0.0
+1600	Fiat Strada 1.4 CE Hard Working 	2020	31.792	Branco	manual	2.0	48990.0	0.0
+1601	Fiat Strada 1.4 CS Hard Working 	2020	35.48900000000001	Branco	manual	2.0	48990.0	0.0
+1602	Fiat Strada 1.4 CS Hard Working 	2020	36.892	Branco	manual	2.0	48990.0	0.0
+1603	Fiat Strada 1.4 CS Hard Working 	2020	18.0	Branco	manual	2.0	48990.0	0.0
+1604	Fiat Strada 1.4 CS Hard Working 	2020	33.65	Branco	manual	2.0	48990.0	0.0
+1605	Fiat Strada 1.4 CD Hard Working 	2020	41.277	Branco	manual	2.0	49500.0	0.0
+1606	Fiat Strada 1.4 CS Hard Working 	2020	4.0	Branco	manual	2.0	49500.0	0.0
+1607	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	5.0	57690.0	1.0
+1608	Fiat Strada 1.4 CS Hard Working 	2020	10.195	Branco	manual	4.0	49790.0	0.0
+1609	Fiat Strada 1.4 CD Hard Working 	2020	40.0	Branco	manual	2.0	49898.0	0.0
+1610	Fiat Strada 1.4 CS Working 	2020	2.785	Branco	manual	2.0	49900.0	0.0
+1611	Fiat Strada 1.4 CS Freedom 	2020	15.5	Branco	manual		49900.0	0.0
+1612	Chevrolet Onix 1.0 	2020	0.0	Prata	manual	3.0	57880.0	1.0
+1613	Fiat Strada 1.4 CD Hard Working 	2020	46.455	Branco	manual	2.0	50700.0	0.0
+1614	Fiat Strada 1.4 CS Hard Working 	2020	51.775	Branco	manual	2.0	50710.0	0.0
+1615	Fiat Strada 1.4 CS Hard Working 	2020	0.0	Várias cores	manual	2.0	50990.0	0.0
+1616	Fiat Strada 1.4 CS Hard Working 	2020	0.0	Preto	manual	2.0	51100.0	0.0
+1617	Fiat Strada 1.4 CS Hard Working 	2020	42.029	Branco	manual	2.0	52520.0	0.0
+1618	Fiat Strada 1.4 CE Hard Working 	2020	36.6	Branco	manual	2.0	52900.0	0.0
+1619	Fiat Strada 1.4 CE Hard Working 	2020	999.999	Prata	manual	2.0	52929.0	0.0
+1620	Chevrolet Onix 1.0 LT 	2020	0.0	Várias cores	manual		57890.0	1.0
+1621	Fiat Strada 1.4 CE Hard Working 	2020	30.646	Branco	manual	2.0	53290.0	0.0
+1622	Fiat Strada 1.4 CE Hard Working 	2020	27.085	Branco	manual	2.0	53290.0	0.0
+1623	Fiat Strada 1.4 CD Hard Working 	2020	29.889	Branco	manual	2.0	53900.0	0.0
+1624	Fiat Strada 1.4 CE Hard Working 	2020	27.0	Branco	manual	2.0	54900.0	0.0
+1625	Fiat Strada 1.4 CE Hard Working 	2020	24.44	Branco	manual	2.0	54990.0	0.0
+1626	Fiat Strada 1.4 CE Hard Working 	2020	20.313	Branco	manual	2.0	54990.0	0.0
+1627	Fiat Strada 1.4 CE Hard Working 	2020	19.388	Branco	manual	2.0	54990.0	0.0
+1628	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Prata	manual		49890.0	0.0
+1629	Fiat Strada 1.4 CE Hard Working 	2020	36.2	Branco	manual	2.0	57500.0	0.0
+1630	Fiat Strada 1.4 CD Hard Working 	2020	0.0	Branco	manual	3.0	59400.0	0.0
+1631	Fiat Strada 1.4 CS Hard Working 	2020	0.0	Branco	manual	2.0	59742.0	0.0
+1632	Fiat Strada 1.4 CS Hard Working 	2020	0.0	Branco	manual	2.0	62490.0	0.0
+1633	Fiat Strada 1.4 CD Freedom 	2020	0.0	Preto	manual	3.0	63590.0	0.0
+1634	Chevrolet Onix 1.0 Turbo AT 	2020	0.0	Branco	automático	5.0	57990.0	0.0
+1635	Fiat Strada 1.4 CS Working 	2020	0.0	Branco	manual	2.0	63590.0	0.0
+1636	Fiat Strada 1.4 CE Hard Working 	2020	100.0	Branco	manual	2.0	63990.0	0.0
+1637	Fiat Strada 1.4 CD Hard Working 	2020	0.0	Branco	manual	2.0	65990.0	0.0
+1638	Fiat Strada 1.4 CD Freedom 	2020	0.0	Branco	manual	5.0	66990.0	0.0
+1639	Fiat Strada 1.4 CD Freedom 	2020	22.428	Vermelho	manual	3.0	67900.0	0.0
+1640	Fiat Strada 1.4 CE Hard Working 	2020	0.0	Branco	manual	2.0	67990.0	0.0
+1641	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual	5.0	57990.0	1.0
+1642	Fiat Strada 1.8 CD Adventure 	2020	10.8	Branco	manual		69000.0	0.0
+1643	Fiat Strada 1.8 CD Adventure 	2020	9.779	Branco	manual	3.0	69990.0	0.0
+1644	Fiat Strada 1.4 CE Hard Working 	2020	0.0	Branco	manual	2.0	72970.0	0.0
+1645	Fiat Strada 1.4 CD Freedom 	2020	23.517	Branco	manual	3.0	72999.0	0.0
+1646	Chevrolet Onix 1.0 Turbo Premier 	2020	9.0	Prata	automático	5.0	69900.0	0.0
+1647	Fiat Strada 1.4 CD Hard Working 	2020	0.0	Preto	manual	3.0	73790.0	0.0
+1648	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual	4.0	58290.0	1.0
+1649	Fiat Strada 1.4 CD Freedom 	2020	0.0	Branco	manual	3.0	74990.0	0.0
+1650	Fiat Strada 1.4 CD Freedom 	2020	0.0	Vermelho	manual	3.0	79990.0	0.0
+1651	Fiat Strada 1.4 CD Freedom 	2020	0.0	Cinza	manual	3.0	79990.0	0.0
+1652	Fiat Strada 1.4 CD Freedom 	2020	0.0	Vermelho	manual	3.0	83990.0	0.0
+1653	Fiat Strada 1.4 CD Freedom 	2020	0.0	Vermelho	manual	4.0	79990.0	0.0
+1654	Chevrolet Onix 1.0 Turbo LT 	2020	0.0	Vermelho	manual	4.0	58890.0	0.0
+1655	Fiat Strada Hard Working 1.4 	2019	73.653	Branco	manual	2.0	39990.0	1.0
+1656	Fiat Strada Hard Working 1.4 	2019	37.94	Branco	manual	2.0	39990.0	1.0
+1657	Fiat Strada Hard Working 1.4 	2019	39.787	Preto	manual	2.0	40977.0	1.0
+1658	Fiat Strada Hard Working 1.4 	2019	36.056	Branco	manual	2.0	41290.0	1.0
+1659	Fiat Strada Hard Working 1.4 	2019	34.667	Branco	manual	2.0	41290.0	1.0
+1660	Chevrolet Onix 1.0 Turbo LTZ 	2020	0.0	Branco	automático	5.0	54900.0	0.0
+1661	Fiat Strada Hard Working 1.4 	2019	60.0	Branco	manual	2.0	41900.0	1.0
+1662	Fiat Strada Hard Working 1.4 	2019	35.0	Branco	manual	2.0	42990.0	1.0
+1663	Fiat Strada Hard Working 1.4 	2019	40.615	Branco	manual	2.0	41990.0	1.0
+1664	Fiat Strada Hard Working 1.4 	2019	40.689	Branco	manual	2.0	41990.0	1.0
+1665	Fiat Strada Hard Working 1.4 	2019	36.0	Branco	manual	2.0	42790.0	1.0
+1666	Fiat Strada Hard Working 1.4 	2019	39.924	Prata	manual	2.0	42890.0	1.0
+1667	Fiat Strada Hard Working 1.4 	2019	50.477	Branco	manual	2.0	43800.0	1.0
+1668	Fiat Strada Hard Working 1.4 	2019	43.802	Branco	manual	4.0	42900.0	1.0
+1669	Chevrolet Onix 1.0 LT 	2020	0.0	Preto	manual		58990.0	1.0
+1670	Fiat Strada Hard Working 1.4 	2019	37.272	Branco	manual	2.0	42900.0	1.0
+1671	Fiat Strada Hard Working 1.4 	2019	63.603	Branco	manual	2.0	42990.0	1.0
+1672	Fiat Strada Hard Working 1.4 	2019	48.651	Branco	manual	2.0	43110.0	1.0
+1673	Fiat Strada Hard Working 1.4 	2019	58.958	Branco	manual	2.0	43110.0	1.0
+1674	Fiat Strada Hard Working 1.4 	2019	39.032	Prata	manual	2.0	43760.0	1.0
+1675	Fiat Strada Hard Working 1.4 	2019	50.405	Branco	manual	3.0	44900.0	1.0
+1676	Chevrolet Onix 1.0 LT 	2020	0.0	Branco	manual		57900.0	1.0
+1677	Fiat Strada Hard Working 1.4 	2019	24.855	Branco	manual	2.0	43900.0	1.0
+1678	Fiat Strada Hard Working 1.4 	2019	44.0	Branco	manual	2.0	43900.0	1.0
+1679	Fiat Strada Hard Working 1.4 	2019	45.4	Prata	manual	3.0	43900.0	1.0
+1680	Fiat Strada Hard Working 1.4 	2019	54.148	Vermelho	manual	2.0	43900.0	1.0
+1681	Fiat Strada Hard Working 1.4 	2019	60.0	Branco	manual	2.0	43900.0	1.0
+1682	Fiat Strada Hard Working 1.4 	2019	66.0	Branco	manual	2.0	43900.0	1.0
+1683	Fiat Strada Hard Working 1.4 	2019	73.0	Branco	manual	2.0	43900.0	1.0
+1684	Chevrolet Onix 1.0 LT 	2020	0.0	Prata	manual	4.0	58999.0	1.0
+1685	Fiat Strada Hard Working 1.4 	2019	17.364	Prata	manual	2.0	43990.0	1.0
+1686	Fiat Strada Working 1.4 	2019	43.854	Branco	manual	2.0	43990.0	1.0
+1687	Fiat Strada Hard Working 1.4 	2019	39.561	Prata	manual	2.0	43990.0	1.0
+1688	Fiat Strada Hard Working 1.4 	2019	49.0	Branco	manual	4.0	43990.0	1.0
+1689	Chevrolet Onix 1.0 Turbo LT 	2020	2.7	Laranja	manual	4.0	59000.0	0.0
+1690	Fiat Strada Hard Working 1.4 	2019	35.022	Branco	manual	2.0	44090.0	1.0
+1691	Fiat Strada Hard Working 1.4 	2019	38.7	Branco	manual	2.0	44200.0	1.0
+1692	Fiat Strada Hard Working 1.4 	2019	30.015	Prata	manual	2.0	44900.0	1.0
+1693	Fiat Strada Hard Working 1.4 	2019	25.853	Branco	manual	2.0	44900.0	1.0
+1694	Fiat Strada Hard Working 1.4 	2019	28.872	Prata	manual	2.0	44900.0	1.0
+1695	Chevrolet Onix 1.0 LT 	2020	0.0	Vermelho	manual	5.0	59190.0	1.0
+1696	Fiat Strada Hard Working 1.4 	2019	36.185	Branco	manual	2.0	44990.0	1.0
+1697	Fiat Strada Hard Working 1.4 	2019	37.764	Branco	manual	2.0	44990.0	1.0
+1698	Fiat Strada Hard Working 1.4 	2019	39.673	Branco	manual	2.0	44990.0	1.0
+1699	Fiat Strada Hard Working 1.4 	2019	37.473	Branco	manual	4.0	44990.0	1.0
+1700	Fiat Strada Hard Working 1.4 	2019	39.439	Branco	manual	2.0	44990.0	1.0
+1701	Fiat Strada Hard Working 1.4 	2019	32.2	Branco	manual	2.0	44990.0	1.0
+1702	Fiat Strada Hard Working 1.4 	2019	40.0	Branco	manual	2.0	44990.0	1.0
+1703	Fiat Strada Hard Working 1.4 	2019	39.0	Branco	manual	2.0	44990.0	1.0
+1704	Chevrolet Onix 1.0 Turbo Premier 	2020	0.0	Prata	automático		59440.0	0.0
+1705	Fiat Strada Hard Working 1.4 	2019	30.117	Branco	manual	2.0	44990.0	1.0
+1706	Fiat Strada Hard Working 1.4 	2019	40.912	Branco	manual	2.0	45590.0	1.0
+1707	Fiat Strada Hard Working 1.4 	2019	35.271	Branco	manual	2.0	45730.0	1.0
+1708	Fiat Strada Hard Working 1.4 	2019	40.741	Prata	manual	2.0	45890.0	1.0
+1709	Fiat Strada Hard Working 1.4 	2019	40.87	Prata	manual	2.0	45890.0	1.0
+1710	Fiat Strada Hard Working 1.4 	2019	40.87	Prata	manual	2.0	45890.0	1.0

@@ -6014,3 +6014,6 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCp
 JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/521PoRGnh7h8BVOMyCpHrhejufpyvF5vdQBdJpCoVT0.js line 1 > Function line 3 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
 1598324732682	Marionette	INFO	Stopped listening on port 55358
+1604408997167	geckodriver	INFO	Listening on 127.0.0.1:63219
+1604409000103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofileNRZv33"
+*** You are running in headless mode.
