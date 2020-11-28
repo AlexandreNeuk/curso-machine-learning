@@ -54,7 +54,8 @@ def index():
     dados = get_records()
     return """<head><h1>Previsão de Preços de Carros</h1></head>
             <body>
-              <form action="/predict" method="post" style="padding-left: 15px; border: solid 1px #b9b9b9; margin-top: 0px; padding-top: 4px; padding-bottom: 15px;">
+              <label>Marcas e modelos de carros treinados: Volkswagen T-Cross, Polo e Gol, Fiat Argo e Strada, Chevrolet Onix, Ford Ka, Hyundai HB20, Jeep Renegade e Renault Kwid</label>
+              <form action="/predict" method="post" style="padding-left: 15px; border: solid 1px #b9b9b9; margin-top: 15px; padding-top: 4px; padding-bottom: 15px;">
                   <h3>Formulario de teste:</h3>          
                   <table>
                 <tr>
