@@ -1,0 +1,10 @@
+[{ 
+    "marca" : "chevrolet",
+    "modelo" : "onix",
+    "ano" : "2019",
+    "km" : "0",
+	"cambio" : "automatico",
+	"cor" : "branco",
+	"portas" : "4",
+	"precorf": "58126.096666666665"
+}]
