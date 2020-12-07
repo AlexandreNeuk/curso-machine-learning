@@ -1,7 +1,7 @@
 # curso-machine-learning
 Como criar uma solução completa de Data Science
 
-Este projeto está dividido em x partes:
+Este projeto está dividido em 8 partes:
 
 1 - [Coleta de dados](https://github.com/AlexandreNeuk/curso-machine-learning/blob/master/1%20-%20scrapy_carros.ipynb)
 
